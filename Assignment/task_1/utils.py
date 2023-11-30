@@ -7,28 +7,29 @@ def write_to_json(filename, dictionary):
         json.dump(dictionary, outfile)
 
 
-# import requests 
-# from bs4 import BeautifulSoup as bs 
-# import csv 
+def preprocess_data(old_map):
+    NAME = 'category'
+    PRODUCTS = 'products'
+    VALUE = 'value'
+    new_map = {
+        NAME: 'Cisco Products',
+        PRODUCTS: []
+    }
 
-# URL = 'https://www.geeksforgeeks.org/page/1/'
+    for k, v in old_map.items():
+        child = {NAME: k, PRODUCTS: []}
 
-# soup = bs(req.text, 'html.parser') 
+        if type(v) == list:
+            for i, p in enumerate(v):
+                obj = {NAME: p, VALUE: i+1}
+                child[PRODUCTS].append(obj)
+        else:
+            for (p, val) in v.items():
+                obj = {NAME: p, PRODUCTS: []}
+                for sub in val:
+                    obj[PRODUCTS].append({NAME: sub, VALUE: 1})
+                child[PRODUCTS].append(obj)
 
-# titles = soup.find_all('div', attrs={'class', 'head'}) 
-# titles_list = [] 
+        new_map[PRODUCTS].append(child)
 
-# count = 1
-# for title in titles: 
-# 	d = {} 
-# 	d['Title Number'] = f'Title {count}'
-# 	d['Title Name'] = title.text 
-# 	count += 1
-# 	titles_list.append(d) 
-
-# filename = 'titles.csv'
-# with open(filename, 'w', newline='') as f: 
-# 	w = csv.DictWriter(f,['Title Number','Title Name']) 
-# 	w.writeheader() 
-	
-# 	w.writerows(titles_list)
+    return new_map
