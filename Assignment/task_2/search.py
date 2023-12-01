@@ -45,6 +45,8 @@ def create_document(item):
     if item['content'] is not None:
         for c in item['content']:
             document += c + '\n'
+
+        document += '\n'
     
     if item['concept'] is not None:
         document += item['concept'] + '\n\n'
@@ -71,11 +73,14 @@ def main():
     # write_list_to_file('products.txt', products)
 
     NUM_DOCS = 1000
-    START = 0
-    COUNT = 50
 
     for query in products:
         ctr = 1
+        START = 0
+        COUNT = 50
+        dir_name = ''.join([c for c in query if c.isalnum() or c == ' '])
+        dir_name = dir_name.lower().replace(' ', '_') + '/'
+                    
         while (START+COUNT) <= NUM_DOCS:
             print(f"Product: {query}, Start: {START}")
             resp = perform_curl_request(query, START, COUNT)
@@ -85,8 +90,7 @@ def main():
 
                 for item in response['items']:
                     document = create_document(item)
-                    dir_name = query.lower().replace(' ', '_') + '/'
-
+                    
                     if ctr == 1:
                         create_directory(dir_name)
 
@@ -94,7 +98,6 @@ def main():
                     write_text_to_file(filename, document)
 
                     ctr += 1
-                
             START += COUNT
 
 
