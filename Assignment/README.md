@@ -11,11 +11,13 @@ $ conda install -c conda-forge pygraphviz
 
 ## Task 2
 
-process of finding curl
 
 ## Task 3
 
 ## Task 4
+
+- create environment.txt
+conda.yml
 
 ## References
 

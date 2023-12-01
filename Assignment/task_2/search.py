@@ -1,9 +1,9 @@
 import requests
 import sys
 sys.path.append('../')
+import os 
 
 from utils.utils import *
-from string import Template
 from requests.structures import CaseInsensitiveDict
 
 
@@ -29,10 +29,37 @@ def perform_curl_request(product, start, count):
     data = '{"query":"' + product + '","startIndex":' + str(start) + ',"count":' + str(count) + ',"searchType":"CISCO","tabName":"Cisco","debugScoreExplain":false,"facets":[],"sortType":"RELEVANCY","dynamicRelevancyId":"","categoryValue":"","breakpoint":"XS","searchProfile":"","ui":"one","searchCat":"","searchMode":"text","callId":"XH5swmEqHr","requestId":1701431852702,"taReqId":"","bizCtxt":"","qnaTopic":[],"appName":"CDCSearchFE","social":false,"localeStr":"enUS","onlyOrganic":false,"ppscountry":"","ppslanguage":"","ppsjobrole":false,"pq":"","pq_cat":"","additionalParams":""}'
 
     resp = requests.post(url, headers=headers, data=data)
-    print(resp.status_code)
-    
+
     return resp
- 
+
+
+def create_document(item):
+    document = ''
+
+    if item['title'] is not None:
+        document += item['title'] + '\n\n'
+    
+    if item['description'] is not None:
+        document += item['description'] + '\n\n'
+    
+    if item['content'] is not None:
+        for c in item['content']:
+            document += c + '\n'
+    
+    if item['concept'] is not None:
+        document += item['concept'] + '\n\n'
+
+    return document
+
+
+def create_directory(name):
+    path = 'products/' + name
+
+    try:
+        os.mkdir(path)
+    except OSError as error:
+        print(error)
+
 
 def main():
     # Extract products from categories_products
@@ -41,30 +68,34 @@ def main():
     cat_prods = json.load(f)
 
     products = get_products(cat_prods)
-    # write_to_file('products.txt', products)
+    # write_list_to_file('products.txt', products)
 
     NUM_DOCS = 1000
     START = 0
     COUNT = 50
 
     for query in products:
-        documents = {query: []}
+        ctr = 1
+        while (START+COUNT) <= NUM_DOCS:
+            print(f"Product: {query}, Start: {START}")
+            resp = perform_curl_request(query, START, COUNT)
+            
+            if resp.status_code == 200:
+                response = json.loads(resp.text)
 
-        resp = perform_curl_request(query, START, COUNT)
+                for item in response['items']:
+                    document = create_document(item)
+                    dir_name = query.lower().replace(' ', '_') + '/'
 
-        # while len(documents[query]) < NUM_DOCS:
-        #     r = requests.post(curl)
-        #     response
+                    if ctr == 1:
+                        create_directory(dir_name)
 
-        #     documents[prod].append(response)
+                    filename = 'products/' + dir_name + str(ctr) + '.txt'
+                    write_text_to_file(filename, document)
 
-        #     START += COUNT
-
-        # name = prod.lower().replace(' ', '_')
-        # filename = f'documents/{name}'
-        # write_to_json(filename, documents) 
-
-        break
+                    ctr += 1
+                
+            START += COUNT
 
 
 if __name__=='__main__':

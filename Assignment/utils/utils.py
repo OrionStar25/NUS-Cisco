@@ -80,8 +80,14 @@ def get_products(data):
     return products
 
 
-def write_to_file(filename, data):
+def write_list_to_file(filename, data):
     with open(filename, 'w') as f:
         for row in data:
             f.write(f'{row}\n')
+
+
+def write_text_to_file(filename, data):
+    f = open(filename, 'w')
+    f.write(data)
+    f.close()
 
