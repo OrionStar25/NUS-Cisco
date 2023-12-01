@@ -157,8 +157,8 @@ def main():
         elif cat == 'Data Center Analytics':
             parse_product_data_analytics(soup, categories_products_map, cat)
 
-    new_map = preprocess_data(categories_products_map) 
-    write_to_json("categories_products.json", new_map)
+    # new_map = preprocess_data(categories_products_map) 
+    write_to_json("categories_products.json", categories_products_map)
 
 
 if __name__=="__main__": 

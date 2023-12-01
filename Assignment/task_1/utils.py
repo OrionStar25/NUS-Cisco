@@ -1,4 +1,5 @@
-import json 
+import json
+import csv
 
 
 # Dump dictionary into a json file
@@ -33,3 +34,32 @@ def preprocess_data(old_map):
         new_map[PRODUCTS].append(child)
 
     return new_map
+
+
+def convert_to_csv(data, name, headers):
+    with open(name,'w') as out:
+        csv_out = csv.writer(out)
+        csv_out.writerow(headers)
+        
+        for row in data:
+            csv_out.writerow(row)
+
+
+def create_edge_list(data):
+    edges = []
+
+    for cat, prods in data.items():
+        if type(prods) == list:
+            for prod in prods:
+                e = (cat, prod)
+                edges.append(e)
+        else:
+            for sub_cat, sub_prods in prods.items():
+                for sub_prod in sub_prods:
+                    e = (sub_cat, sub_prod)
+                    edges.append(e)
+                
+                e = (cat, sub_cat)
+                edges.append(e)
+
+    return edges

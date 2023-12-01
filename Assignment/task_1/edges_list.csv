@@ -1,0 +1,677 @@
+source,target
+"Accessories (Interfaces, Modules, Cards)",Access Point Modules
+"Accessories (Interfaces, Modules, Cards)",Broadband Processing Engines
+"Accessories (Interfaces, Modules, Cards)",Connected Grid Modules
+"Accessories (Interfaces, Modules, Cards)",CWDM GBIC/SFP
+"Accessories (Interfaces, Modules, Cards)",Ethernet Switching Network Modules
+"Accessories (Interfaces, Modules, Cards)",GBICs
+"Accessories (Interfaces, Modules, Cards)",High Density Voice/Fax Network Modules
+"Accessories (Interfaces, Modules, Cards)",High-Speed WAN Interface Cards
+"Accessories (Interfaces, Modules, Cards)",Integrated Services Router (ISR) Modules
+"Accessories (Interfaces, Modules, Cards)",Interface Cards
+"Accessories (Interfaces, Modules, Cards)",IP Communications Voice/Fax Network Modules
+"Accessories (Interfaces, Modules, Cards)",Line cards
+"Accessories (Interfaces, Modules, Cards)",LTE Wireless WAN Interfaces
+"Accessories (Interfaces, Modules, Cards)",Network Modules
+"Accessories (Interfaces, Modules, Cards)",Nexus SmartNIC
+"Accessories (Interfaces, Modules, Cards)",Port Adapters
+"Accessories (Interfaces, Modules, Cards)",Route Processors and Route Switch Processors
+"Accessories (Interfaces, Modules, Cards)",Security Modules for Routers and Switches
+"Accessories (Interfaces, Modules, Cards)",Security Modules for Security Appliances
+"Accessories (Interfaces, Modules, Cards)",Services Modules
+"Accessories (Interfaces, Modules, Cards)",Services-Ready Engine (SRE) Modules
+"Accessories (Interfaces, Modules, Cards)",SFPs
+"Accessories (Interfaces, Modules, Cards)",Shared Port Adapters/SPA Interface Processors
+"Accessories (Interfaces, Modules, Cards)",Small Business Network Accessories
+"Accessories (Interfaces, Modules, Cards)",Storage Networking Modules
+"Accessories (Interfaces, Modules, Cards)",Transceiver Modules
+"Accessories (Interfaces, Modules, Cards)",Unified Computing System Adapters
+"Accessories (Interfaces, Modules, Cards)",Voice Modules and Interface Cards
+"Accessories (Interfaces, Modules, Cards)",WAN Interface Cards
+Cloud and Systems Management,Access Registrar
+Cloud and Systems Management,Air-Gapped Collector
+Cloud and Systems Management,Application Centric Infrastructure Simulator
+Cloud and Systems Management,Application Policy Infrastructure Controller (APIC)
+Cloud and Systems Management,Application Policy Infrastructure Controller Enterprise Module (APIC-EM)
+Cloud and Systems Management,Application Services Engine
+Cloud and Systems Management,Automated Fault Management
+Cloud and Systems Management,Business Mobile App
+Cloud and Systems Management,Catalyst Center
+Cloud and Systems Management,Cisco Business Dashboard
+Cloud and Systems Management,Cisco Container Platform
+Cloud and Systems Management,Cisco DNA Traffic Telemetry Appliance
+Cloud and Systems Management,Cloud Network Automation Provisioner
+Cloud and Systems Management,Cloud Network Controller
+Cloud and Systems Management,Cloud Portal
+Cloud and Systems Management,CloudCenter
+Cloud and Systems Management,CloudCenter Suite
+Cloud and Systems Management,Collaboration Audit and Assessments
+Cloud and Systems Management,Common Services Platform Collector (CSPC)
+Cloud and Systems Management,Configuration Assistant (CCA)
+Cloud and Systems Management,Configuration Engine
+Cloud and Systems Management,Configuration Professional Express
+Cloud and Systems Management,Configuration Professional for Catalyst
+Cloud and Systems Management,Connected Grid Design Suite Substation Workbench
+Cloud and Systems Management,Crosswork Cloud
+Cloud and Systems Management,Crosswork Network Automation
+Cloud and Systems Management,Crosswork Network Services Orchestrator
+Cloud and Systems Management,Crosswork Workflow Manager
+Cloud and Systems Management,CX Cloud Agent
+Cloud and Systems Management,Dynamic Fabric Automation
+Cloud and Systems Management,Edge Fog Fabric
+Cloud and Systems Management,Elastic Services Controller
+Cloud and Systems Management,Enterprise Service Automation
+Cloud and Systems Management,Evolved Programmable Network Manager
+Cloud and Systems Management,Extensible Network Controller (XNC)
+Cloud and Systems Management,Fabric Manager
+Cloud and Systems Management,FindIT Network Management
+Cloud and Systems Management,Fog Director
+Cloud and Systems Management,Hosted Collaboration Mediation
+Cloud and Systems Management,Hybrid Solution for Kubernetes on AWS
+Cloud and Systems Management,Industrial Asset Vision
+Cloud and Systems Management,Industrial Network Director
+Cloud and Systems Management,Intelligent Automation for Cloud
+Cloud and Systems Management,Intersight
+Cloud and Systems Management,Intersight Workload Optimizer
+Cloud and Systems Management,IoT Field Network Director
+Cloud and Systems Management,IoT Operations Dashboard
+Cloud and Systems Management,IOx
+Cloud and Systems Management,Kinetic
+Cloud and Systems Management,Kinetic for Cities
+Cloud and Systems Management,Managed Services Accelerator
+Cloud and Systems Management,Manufacturing IoT Demo
+Cloud and Systems Management,Modeling Labs
+Cloud and Systems Management,Network Configuration and Change Management
+Cloud and Systems Management,Network Services Manager
+Cloud and Systems Management,Nexus Dashboard Data Broker
+Cloud and Systems Management,Nexus Dashboard Fabric Controller (Formerly DCNM)
+Cloud and Systems Management,Nexus Dashboard Orchestrator
+Cloud and Systems Management,Nexus Fabric Manager
+Cloud and Systems Management,NFV Infrastructure
+Cloud and Systems Management,Operational Insights Collector
+Cloud and Systems Management,Plug-in for OpenFlow
+Cloud and Systems Management,Prime Access Registrar
+Cloud and Systems Management,Prime Cable Provisioning
+Cloud and Systems Management,Prime Central
+Cloud and Systems Management,Prime for Evolved Programmable Networks
+Cloud and Systems Management,Prime for Mobility
+Cloud and Systems Management,Prime Home
+Cloud and Systems Management,Prime Infrastructure
+Cloud and Systems Management,Prime IP Express
+Cloud and Systems Management,Prime IP Express Jumpstart
+Cloud and Systems Management,Prime License Manager
+Cloud and Systems Management,Prime Network
+Cloud and Systems Management,Prime Network Analysis Module Software
+Cloud and Systems Management,Prime Network Registrar
+Cloud and Systems Management,Prime Network Registrar Jumpstart
+Cloud and Systems Management,Prime Network Services Controller
+Cloud and Systems Management,Prime Optical
+Cloud and Systems Management,Prime Performance Manager
+Cloud and Systems Management,Prime Provisioning
+Cloud and Systems Management,Prime Service Catalog
+Cloud and Systems Management,Prime Virtual Network Analysis Module (vNAM)
+Cloud and Systems Management,Process Orchestrator
+Cloud and Systems Management,Secure Access Control Server
+Cloud and Systems Management,Secure Equipment Access
+Cloud and Systems Management,Small Business FindIT Network Discovery Utility
+Cloud and Systems Management,Smart Call Home
+Cloud and Systems Management,Smart Net Total Care
+Cloud and Systems Management,Smart Software Manager
+Cloud and Systems Management,Terminal Services Gateways
+Cloud and Systems Management,ThousandEyes End User Monitoring
+Cloud and Systems Management,ThousandEyes Internet Insights
+Cloud and Systems Management,ThousandEyes Network and Application Synthetics
+Cloud and Systems Management,Virtual Network Management Center
+Cloud and Systems Management,Virtual Topology System
+Cloud and Systems Management,Virtualized Infrastructure Manager
+Cloud and Systems Management,Workplace Portal
+Collaboration Endpoints,Board Series
+Collaboration Endpoints,Desk Series
+Collaboration Endpoints,Microphones
+Collaboration Endpoints,Multi-head Cables
+Collaboration Endpoints,Room Navigator
+Collaboration Endpoints,Room Phone
+Collaboration Endpoints,Room Series
+Collaboration Endpoints,SIP IP Phone Software
+Collaboration Endpoints,Small Business Voice Accessories
+Collaboration Endpoints,TC Console
+Collaboration Endpoints,TelePresence Administration Software
+Collaboration Endpoints,TelePresence ISDN Link
+Collaboration Endpoints,TelePresence MX Series
+Collaboration Endpoints,TelePresence Precision Cameras
+Collaboration Endpoints,TelePresence PrecisionHD Cameras
+Collaboration Endpoints,TelePresence Remote Control
+Collaboration Endpoints,TelePresence SX Series
+Collaboration Endpoints,TelePresence System EX Series
+Collaboration Endpoints,Touch
+Collaboration Endpoints,Webex Share
+Collaboration Endpoints,Wireless Phone
+Conferencing,Collaboration Meeting Rooms (CMR)
+Conferencing,Meeting App
+Conferencing,Meeting Management
+Conferencing,Meeting Server
+Conferencing,TelePresence Content Server
+Conferencing,TelePresence Management Suite (TMS)
+Conferencing,TelePresence Management Suite Extensions
+Conferencing,TelePresence MCU MSE Series
+Conferencing,Webex Cloud Connected Audio
+Conferencing,Webex Control Hub
+Conferencing,Webex Edge
+Conferencing,Webex Events
+Conferencing,WebEx Meetings
+Conferencing,Webex Meetings Online
+Conferencing,Webex Meetings Server
+Conferencing,Webex Support
+Conferencing,Webex Training
+Connected Safety and Security,IP Camera Applications and Utilities
+Connected Safety and Security,Video Surveillance Manager
+Connected Safety and Security,Video Surveillance Operations Manager Software
+Connected Safety and Security,Video Surveillance PTZ IP Cameras
+Connected Safety and Security,Virtualized Applications for UCS
+Contact Center ,Computer Telephony Integration Option
+Contact Center ,Enterprise Chat and Email
+Contact Center ,Finesse
+Contact Center ,Outbound Option
+Contact Center ,Packaged Contact Center Enterprise
+Contact Center ,Remote Expert Mobile
+Contact Center ,SocialMiner
+Contact Center ,Unified Call Studio
+Contact Center ,Unified Contact Center Enterprise
+Contact Center ,Unified Contact Center Express
+Contact Center ,Unified Contact Center Management Portal
+Contact Center ,Unified Customer Voice Portal
+Contact Center ,Unified Intelligence Center
+Contact Center ,Unified Intelligent Contact Management Enterprise
+Contact Center ,Unified IP Interactive Voice Response (IVR)
+Contact Center ,Unified Workforce Optimization
+Contact Center ,Virtualized Voice Browser
+Contact Center ,Webex Contact Center
+Contact Center ,Webex Contact Center Enterprise
+Contact Center ,Webex Contact Center Enterprise for Government
+Contact Center ,Webex Experience Management (formerly CloudCherry)
+Contact Center ,Webex Workforce Optimization
+Data Center Analytics,Cisco Network Assurance Engine - End-of-Sale
+Data Center Analytics,Cisco Network Insights for Data Center
+Data Center Analytics,Cisco Nexus Dashboard
+Data Center Analytics,Cisco Nexus Dashboard Insights
+Hyperconverged Infrastructure,Compute Hyperconverged with Nutanix
+Hyperconverged Infrastructure,HyperFlex HX Data Platform
+Hyperconverged Infrastructure,HyperFlex HX Series
+Networking Software (IOS & NX-OS),"IOS XE 16 (includes Denali, Everest, Fuji and Gibraltar releases)"
+Networking Software (IOS & NX-OS),"IOS XE 17 (includes Amsterdam, Bengaluru, Cupertino and Dublin releases)"
+Networking Software (IOS & NX-OS),IOS XE 3E
+Networking Software (IOS & NX-OS),IOS XE 3S
+Networking Software (IOS & NX-OS),IOS XE 3SE
+Networking Software (IOS & NX-OS),IOS XE 3SG
+Networking Software (IOS & NX-OS),IOS XE Release 2
+Networking Software (IOS & NX-OS),IOS XR
+Networking Software (IOS & NX-OS),IOS XR Software (End-of-Sale)
+Networking Software (IOS & NX-OS),IOS XRv Software
+Networking Software (IOS & NX-OS),NX-OS Software
+Asynchronous Transfer Mode (ATM),ATM Signaling
+Asynchronous Transfer Mode (ATM),ATM to Frame Relay Interworking
+Asynchronous Transfer Mode (ATM),ATM Traffic Management
+Asynchronous Transfer Mode (ATM),IP over ATM
+Asynchronous Transfer Mode (ATM),LAN Emulation (LANE)
+Asynchronous Transfer Mode (ATM),Permanent Virtual Circuits (PVC) and Switched Virtual Circuits (SVC)
+Asynchronous Transfer Mode (ATM),VP (Virtual Path) Switching and Tunnels
+Networking Technologies and Protocols,Asynchronous Transfer Mode (ATM)
+Availability,High Availability
+Networking Technologies and Protocols,Availability
+Broadband Cable,Cable Management and Services
+Broadband Cable,Cable Modem Termination Systems (CMTS)
+Broadband Cable,Cable Modems
+Broadband Cable,Cable Security
+Broadband Cable,Cable Video
+Broadband Cable,Data-over-Cable Service Interface Specifications (DOCSIS)
+Broadband Cable,Radio Frequency (RF) Hybrid Fiber-Coaxial (HFC)
+Broadband Cable,Telco - Return
+Networking Technologies and Protocols,Broadband Cable
+Content Networking,Certificates
+Content Networking,Keepalives
+Content Networking,Redundancy
+Content Networking,TCP and UDP Stateful Protocols
+Content Networking,TCP and UDP Static Port Protocols
+Content Networking,Web Cache Communications Protocol (WCCP)
+Networking Technologies and Protocols,Content Networking
+Dial and Access,Asynchronous Connections
+Dial and Access,Dial-on-Demand Routing (DDR)
+Dial and Access,"ISDN, CAS"
+Dial and Access,Virtual Private Dialup Network (VPDN)
+Networking Technologies and Protocols,Dial and Access
+IBM Technologies,IBM CIP Protocols
+IBM Technologies,IBM Networking
+IBM Technologies,IBM Presentation Services
+IBM Technologies,IBM SNA Networking
+IBM Technologies,Token Ring
+Networking Technologies and Protocols,IBM Technologies
+IP,IP Addressing Services
+IP,IP Application Services
+IP,IP Multicast
+IP,IP Routed Protocols
+IP,IP Routing
+IP,IP Security Protocols
+IP,IP Switching
+IP,IP Tunneling
+IP,IP Version 6 (IPv6)
+Networking Technologies and Protocols,IP
+LAN Switching,EtherChannel
+LAN Switching,Ethernet
+LAN Switching,Fiber Distributed/Copper Distributed Data Interface (FDDI/CDDI)
+LAN Switching,LAN Quality of Service
+LAN Switching,LAN Security
+LAN Switching,Layer-Three Switching and Forwarding
+LAN Switching,Port Monitoring
+LAN Switching,Spanning Tree Protocol
+LAN Switching,Switch Redundancy and Management
+LAN Switching,Virtual LANs/VLAN Trunking Protocol (VLANs/VTP)
+Networking Technologies and Protocols,LAN Switching
+Long Reach Ethernet (LRE) and Digital Subscriber Line (xDSL),LRE/VDSL (Long-Reach Ethernet/Very-high-data-rate DSL)
+Long Reach Ethernet (LRE) and Digital Subscriber Line (xDSL),Service Selection Gateway (SSG)
+Networking Technologies and Protocols,Long Reach Ethernet (LRE) and Digital Subscriber Line (xDSL)
+Multiprotocol Label Switching (MPLS),Multiprotocol Label Switching for VPNs (MPLS for VPNs)
+Multiprotocol Label Switching (MPLS),Multiprotocol Label Switching over ATM (MPLS over ATM)
+Networking Technologies and Protocols,Multiprotocol Label Switching (MPLS)
+Network Management,Network Monitoring
+Network Management,Remote Access
+Network Management,System Availability
+Networking Technologies and Protocols,Network Management
+Optical,Dense Wavelength Division Multiplexing (DWDM)
+Optical,Spatial Reuse Protocol/Dynamic Packet Transport (SRP/DPT)
+Optical,Synchronous Digital Hierarchy (SDH)
+Optical,Synchronous Optical NETwork (SONET)
+Networking Technologies and Protocols,Optical
+Quality of Service (QoS),Netflow
+Quality of Service (QoS),QoS Configuration and Monitoring
+Quality of Service (QoS),QoS Congestion Avoidance
+Quality of Service (QoS),QoS Congestion Management (queueing)
+Quality of Service (QoS),QoS Link Efficiency Mechanisms
+Quality of Service (QoS),QoS Packet Classification
+Quality of Service (QoS),QoS Packet Marking
+Quality of Service (QoS),QoS Policing
+Quality of Service (QoS),QoS Signaling
+Quality of Service (QoS),QoS Solutions
+Quality of Service (QoS),QoS Traffic Shaping
+Networking Technologies and Protocols,Quality of Service (QoS)
+Security and VPN,Authentication Protocols
+Security and VPN,IDS/IPS - Detection & Signatures
+Security and VPN,IDS/IPS - Reaction & Response
+Security and VPN,IPSec Architecture and Implementation
+Security and VPN,IPSec Negotiation/IKE Protocols
+Security and VPN,Lawful Intercept
+Security and VPN,Lock & Key
+Security and VPN,Network Admission Control (NAC)
+Security and VPN,Public Key Infrastructure (PKI)
+Security and VPN,Secure Shell (SSH)
+Security and VPN,Secure Socket Layer (SSL)
+Security and VPN,WebVPN / SSL VPN
+Networking Technologies and Protocols,Security and VPN
+Storage Networking,Additional Storage Networking
+Storage Networking,Fiber Channel over IP (FCIP)
+Storage Networking,Management
+Storage Networking,SCSI (Small Computer Systems Interface)
+Storage Networking,Security
+Storage Networking,Small Computer Systems Interface over IP (iSCSI)
+Networking Technologies and Protocols,Storage Networking
+Voice,Application Communications
+Voice,Call Routing / Dial Plans
+Voice,Device Signaling
+Voice,Fax / Modem over IP
+Voice,Gateway Protocols
+Voice,IP Telephony/Voice over IP (VoIP)
+Voice,Telephony Signaling
+Voice,Voice Application Development
+Voice,Voice Quality
+Networking Technologies and Protocols,Voice
+WAN,Data Compression
+WAN,Frame Relay
+WAN,Point-to-Point Protocol (PPP)
+WAN,T1/E1 & T3/E3
+WAN,TDM
+WAN,X.25 Protocols
+Networking Technologies and Protocols,WAN
+Wireless / Mobility,"Wireless, Fixed"
+Wireless / Mobility,"Wireless, LAN (WLAN)"
+Wireless / Mobility,"Wireless, Mobile"
+Networking Technologies and Protocols,Wireless / Mobility
+Optical Networking,Automated Subsea Tuning
+Optical Networking,Carrier Packet Transport (CPT) System
+Optical Networking,DWDM Design Tool
+Optical Networking,Optical Network Controller
+Optical Networking,Optical Network Planner
+Optical Networking,Routed Optical Networking
+Optical Networking,TransportPlanner
+Routers,Carrier Routing System
+Routers,Catalyst Cellular Gateways
+Routers,Catalyst Wireless Gateway
+Routers,Cloud Native Broadband Network Gateway (BNG)
+Routers,Cloud Native Broadband Router
+Routers,Enterprise NFV Infrastructure Software
+Routers,Integrated Services Virtual Router
+Routers,IOS XR for Third Party Hardware
+Routers,IOS XRd
+Routers,IOS XRv Router
+Routers,SD-WAN
+Routers,SD-WAN Cloud OnRamp for Co-Location
+Routers,Small Business RV Series Routers
+Routers,vEdge Router
+Routers,Virtual Wide Area Application Services (vWAAS)
+Routers,WAN Automation Engine (WAE)
+Routers,Wide Area Application Services (WAAS) Express
+Routers,Wide Area Application Services (WAAS) Software
+Routers,Wide Area Virtualization Engines
+Routers,Wireless Gateway for LoRaWAN
+Routers,XE SD-WAN Routers
+Security,AMP for Networks
+Security,Attack Surface Management
+Security,Cisco Telemetry Broker
+Security,Cloud Application Security
+Security,Cloud Email Security
+Security,Cloudlock
+Security,Cyber Threat Defense
+Security,Cyber Vision
+Security,Defense Orchestrator
+Security,Duo
+Security,Dynamic Multipoint VPN (DMVPN)
+Security,Email Encryption
+Security,Endpoint Security Analytics Built on Splunk
+Security,FlexVPN
+Security,Group Encrypted Transport VPN
+Security,Identity Services Engine
+Security,IOS Easy VPN
+Security,IOS Firewall
+Security,IOS Intrusion Prevention System (IPS)
+Security,IOS Intrusion Prevention System Feature Software
+Security,IOS Intrusion Prevention System Signatures for Cisco Configuration Professional
+Security,IOS Network Address Translation (NAT)
+Security,IOS SSL VPN
+Security,ISE Passive Identity Connector
+Security,Multicloud Defense
+Security,NGIPS for Blue Coat X-Series
+Security,NGIPS Virtual Appliance
+Security,Registered Envelope Service
+Security,Router Security
+Security,Secure Access
+Security,Secure Access Control System
+Security,Secure Awareness Training
+Security,Secure Client (including AnyConnect)
+Security,Secure Cloud Analytics
+Security,Secure DDoS Protection
+Security,Secure Email and Web Manager
+Security,Secure Email and Web Manager Virtual
+Security,Secure Email Gateway
+Security,Secure Email Threat Defense
+Security,Secure Email Virtual Gateway
+Security,Secure Endpoint
+Security,Secure Endpoint Private Cloud
+Security,Secure Firewall ASA
+Security,Secure Firewall ASA Virtual
+Security,Secure Firewall ASDM
+Security,Secure Firewall Cloud Native
+Security,Secure Firewall Management Center
+Security,Secure Firewall Management Center Virtual
+Security,Secure Firewall Migration Tool
+Security,Secure Firewall Threat Defense
+Security,Secure Firewall Threat Defense Virtual
+Security,Secure Malware Analytics Appliances
+Security,Secure Malware Analytics Cloud (Threat Grid – Cloud)
+Security,Secure Network Analytics
+Security,Secure Network Analytics Data Store
+Security,Secure Network Analytics Flow Collector
+Security,Secure Network Analytics Flow Sensor
+Security,Secure Network Analytics Manager
+Security,Secure Network Analytics UDP Director
+Security,Secure Network Analytics Virtual Data Store
+Security,Secure Network Analytics Virtual Endpoint Concentrator
+Security,Secure Network Analytics Virtual Flow Collector
+Security,Secure Network Analytics Virtual Flow Sensor
+Security,Secure Network Analytics Virtual Manager
+Security,Secure Network Analytics Virtual UDP Director
+Security,Secure Sign-On
+Security,Secure Web Appliance
+Security,Secure Web Appliance Virtual
+Security,Secure Workload
+Security,SecureX
+Security,Security Analytics and Logging
+Security,Security Cloud
+Security,Security Connector
+Security,Security Manager
+Security,Security Packet Analyzer
+Security,Sourcefire AMP for FirePOWER Software License
+Security,Sourcefire AMP for Network Virtual Appliance
+Security,SSL Appliances
+Security,Umbrella
+Security,Virtual Security Packet Analyzer
+Security,Vulnerability Management
+Security,XDR
+Servers - Unified Computing (UCS),Integrated Management Controller
+Servers - Unified Computing (UCS),Integrated Management Controller (IMC) Supervisor
+Servers - Unified Computing (UCS),R Series Racks
+Servers - Unified Computing (UCS),RP Series Power Distribution Units
+Servers - Unified Computing (UCS),UCS - Hypervisors and Operating Systems
+Servers - Unified Computing (UCS),UCS B-Series Blade Server Software
+Servers - Unified Computing (UCS),UCS B-Series Blade Servers
+Servers - Unified Computing (UCS),UCS C-Series Rack Servers
+Servers - Unified Computing (UCS),UCS C-Series Rack-Mount Standalone Server Software
+Servers - Unified Computing (UCS),UCS C-Series Rack-Mount UCS-Managed Server Software
+Servers - Unified Computing (UCS),UCS Central Software
+Servers - Unified Computing (UCS),UCS Director
+Servers - Unified Computing (UCS),UCS E-Series Servers
+Servers - Unified Computing (UCS),UCS E-Series Software
+Servers - Unified Computing (UCS),UCS Express
+Servers - Unified Computing (UCS),UCS Infrastructure and UCS Manager Software
+Servers - Unified Computing (UCS),UCS M-Series Modular Servers
+Servers - Unified Computing (UCS),UCS Management - Partner Ecosystem
+Servers - Unified Computing (UCS),UCS Manager
+Servers - Unified Computing (UCS),UCS Mini
+Servers - Unified Computing (UCS),UCS Mini Software
+Servers - Unified Computing (UCS),UCS S-Series Storage Servers
+Servers - Unified Computing (UCS),UCS Virtual Interface Card
+Servers - Unified Computing (UCS),UCS X-Series Modular System
+Servers - Unified Computing (UCS),Unified Computing System
+Servers - Unified Computing (UCS),Workload Optimization Manager
+Storage Networking,MDS Blade Switch Series
+Storage Networking,SAN Insights Discovery
+Switches,Application Centric Infrastructure Virtual Edge
+Switches,Application Centric Infrastructure Virtual Pod
+Switches,Blade Switches for HP
+Switches,Catalyst Digital Building Series Switches
+Switches,Catalyst Micro Switches
+Switches,Catalyst PON Series
+Switches,Cloud Services Platforms
+Switches,Cluster Management Suite (CMS) Software
+Switches,Edge Series
+Switches,Fabric Analysis and Correlation Toolkit
+Switches,Redundant Power Systems
+Switches,SFS Solution for Dell
+Switches,SFS Solution for IBM BladeCenter-H
+Switches,Switch Modules for IBM
+Switches,Virtual Security Gateway
+TelePresence,TelePresence Administration Software
+TelePresence,TelePresence ISDN Gateway - End-of-Support
+TelePresence,TelePresence ISDN Link - End-of-Sale
+TelePresence,TelePresence Management Suite (TMS) 
+TelePresence,TelePresence Management Suite Extensions  
+TelePresence,TelePresence MCU MSE 8510  - End-of-Support
+TelePresence,TelePresence MX Series - End-of-Sale
+TelePresence,TelePresence Precision 60 Camera
+TelePresence,TelePresence Precision Cameras
+TelePresence,TelePresence PrecisionHD Cameras
+TelePresence,TelePresence Remote Control
+TelePresence,TelePresence Serial Gateway Series - End-of-Support
+TelePresence,TelePresence SpeakerTrack 60
+TelePresence,TelePresence SX Series (Quick Set) - End-of-Sale
+TelePresence,TelePresence System EX Series - End-of-Support
+TelePresence,TelePresence Touch
+TelePresence,TelePresence Video Communication Server (VCS) - End-of-Sale
+Unified Communications,Applications for Cisco Unified Application Environment
+Unified Communications,BroadCloud
+Unified Communications,BroadCloud PaaS
+Unified Communications,BroadWorks
+Unified Communications,Collaboration Flex Plan
+Unified Communications,Collaboration Systems Release
+Unified Communications,Emergency Responder
+Unified Communications,Expressway Series
+Unified Communications,Gatekeeper/Multimedia Conference Manager
+Unified Communications,Hosted Collaboration Solution (HCS)
+Unified Communications,Hosted Collaboration Solution for Contact Center
+Unified Communications,Hosted Unified Communications Services
+Unified Communications,IOS Gateways with Session Initiation Protocol (SIP)
+Unified Communications,Jabber
+Unified Communications,Jabber Extensible Communications Platform (XCP)
+Unified Communications,Jabber for Android
+Unified Communications,Jabber for iPad
+Unified Communications,Jabber for iPhone
+Unified Communications,Jabber for iPhone and iPad
+Unified Communications,Jabber for Mac
+Unified Communications,Jabber for Windows
+Unified Communications,Jabber Guest
+Unified Communications,Jabber Softphone for VDI
+Unified Communications,Jabber Software Development Kit
+Unified Communications,Network Route Director
+Unified Communications,Office Manager
+Unified Communications,Paging Server
+Unified Communications,Prime Collaboration
+Unified Communications,Small Business Voice Gateways and ATAs
+Unified Communications,TDM Gateways
+Unified Communications,TelePresence ISDN Gateway
+Unified Communications,TelePresence Serial Gateway Series
+Unified Communications,TelePresence Video Communication Server (VCS)
+Unified Communications,UC Integration(TM) for Cisco WebEx Connect
+Unified Communications,UC Integration(TM) for Microsoft Lync
+Unified Communications,UC-One
+Unified Communications,Unified Application Designer
+Unified Communications,Unified Attendant Consoles
+Unified Communications,Unified Border Element
+Unified Communications,Unified CallConnectors
+Unified Communications,Unified Communications Licensing
+Unified Communications,Unified Communications Manager (CallManager)
+Unified Communications,Unified Communications Manager Assistant
+Unified Communications,Unified Communications Manager Express
+Unified Communications,Unified Communications Manager IM & Presence Service
+Unified Communications,Unified Communications Manager Session Management Edition
+Unified Communications,Unified Communications Widgets
+Unified Communications,Unified Communications with Microsoft
+Unified Communications,Unified Mobility
+Unified Communications,Unified Quick Connect
+Unified Communications,Unified SIP Proxy
+Unified Communications,Unified Survivable Remote Site Telephony
+Unified Communications,Unity Connection
+Unified Communications,Unity Express
+Unified Communications,VG Series Gateways
+Unified Communications,WebAttendant
+Unified Communications,Webex App
+Unified Communications,Webex Calling
+Unified Communications,Webex Cloud-Connected UC
+Unified Communications,Webex for Cisco Broadworks
+Unified Communications,WebEx Messenger
+Video,cBR Series Converged Broadband Routers
+Video,Cisco Vision
+Video,Coaxial Media Converters
+Video,Compact Amplifiers
+Video,Compact Nodes
+Video,DAVIC QPSK Devices
+Video,Digital Media Encoders
+Video,Digital Media Manager
+Video,GainMaker Amplifiers
+Video,GainMaker Nodes
+Video,GainStar Amplifiers
+Video,GainStar Nodes
+Video,Legacy System Amplifiers and Line Extenders
+Video,OptoStar II Optical Products
+Video,Prisma II Products
+Video,Remote PHY Shelves
+Video,RF Gateway Series
+Video,Smart PHY
+Video,"Splitters, Directional Couplers, Power Inserters"
+Video,Stretch (Wide) Taps
+Video,Traditional Size Taps
+Video,Transponders
+Webex,UC Integration™ for Cisco Webex Connect
+Webex,Webex App (formerly Webex Teams)
+Webex,Webex Board Series
+Webex,Webex Calling
+Webex,Webex for Cisco Broadworks
+Webex,Webex Calling
+Webex,Webex Cloud Connected Audio
+Webex,Webex Cloud Connected UC
+Webex,Webex Contact Center
+Webex,Webex Contact Center Enterprise
+Webex,Webex Contact Center Enterprise for Government
+Webex,Webex Control Hub
+Webex,Webex Desk Series
+Webex,Webex Edge
+Webex,Webex Experience Management (formerly CloudCherry) - End-of-Sale
+Webex,Webex Hardware as a Service
+Webex,Webex Legislate
+Webex,Webex Meetings
+Webex,Webex Meetings Online
+Webex,Webex Messenger
+Webex,Webex Room Navigator
+Webex,Webex Room Phone
+Webex,Webex Room Series
+Webex,Webex Support
+Webex,Webex Share - End-of-Sale
+Webex,Webex Training
+Webex,Webex Webcasting
+Webex,Webex Webinars (formerly Webex Events)
+Webex,Webex Work
+Webex,Webex Workforce Optimization
+Wireless,Access Policy Server
+Wireless,Adaptive Wireless IPS Software
+Wireless,Aironet Active Sensor
+Wireless,Aironet Antennas and Accessories
+Wireless,Aironet Wireless LAN Client Adapters
+Wireless,AirProvision
+Wireless,Application Detection and Control
+Wireless,ASN Access Service Network Gateway
+Wireless,Cisco Spaces
+Wireless,Connected Mobile Experiences
+Wireless,Connected Mobile Experiences (CMX) Cloud
+Wireless,Content Filtering
+Wireless,Context-Aware Software
+Wireless,Converged Services Platform
+Wireless,Embedded Wireless Controller on Catalyst Access Points
+Wireless,Enhanced Charging Service
+Wireless,Enterprise Mobility Services Platform
+Wireless,ePDG Evolved Packet Data Gateway
+Wireless,GGSN Gateway GPRS Support Node
+Wireless,MME Mobility Management Entity
+Wireless,Mobile Service Edge Gateway
+Wireless,Mobility Express for Aironet Access Points
+Wireless,Mobility Services Engine
+Wireless,Mobility Services Engine Virtual Appliance
+Wireless,Mobility Unified Reporting and Analytics
+Wireless,Mobility Unified Reporting System
+Wireless,NAT Network Address Translation
+Wireless,PDSN/HA Packet Data Serving Node and Home Agent
+Wireless,Peer-to-Peer
+Wireless,PGW Packet Data Network Gateway
+Wireless,Policy Suite for BNG
+Wireless,Policy Suite for Mobile
+Wireless,Policy Suite for Wi-Fi
+Wireless,Prime Network Control System
+Wireless,Prime Network Control System Series Appliances
+Wireless,SGSN Serving GPRS Support Node
+Wireless,SGW Serving Gateway
+Wireless,Spectrum Expert
+Wireless,Subscriber Firewall
+Wireless,Ultra Automation Services
+Wireless,Ultra Cloud Core - Access and Mobility Management Function
+Wireless,Ultra Cloud Core - Policy Control Function
+Wireless,Ultra Cloud Core - Serving Gateway Function
+Wireless,Ultra Cloud Core - Session Management Function
+Wireless,Ultra Cloud Core - Subscriber Microservices Infrastructure
+Wireless,Ultra Cloud Core - User Plane Function
+Wireless,Ultra Gateway Platform
+Wireless,Ultra Gateway Platform with CUPS
+Wireless,Ultra Packet Core
+Wireless,Ultra Services Framework
+Wireless,Ultra Services Proxy
+Wireless,Ultra Traffic Optimization
+Wireless,Ultra-Reliable Wireless Backhaul
+Wireless,Virtual Wireless Controller
+Wireless,Wireless Control System Navigator
+Wireless,Wireless Controller Software for SRE
+Wireless,Wireless LAN Controller Software
+Wireless,Wireless Location Appliance

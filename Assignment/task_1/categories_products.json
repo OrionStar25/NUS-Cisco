@@ -1,2832 +1,738 @@
 {
-    "category": "Cisco Products",
-    "products": [
-        {
-            "category": "Accessories (Interfaces, Modules, Cards)",
-            "products": [
-                {
-                    "category": "Access Point Modules",
-                    "value": 1
-                },
-                {
-                    "category": "Broadband Processing Engines",
-                    "value": 2
-                },
-                {
-                    "category": "Connected Grid Modules",
-                    "value": 3
-                },
-                {
-                    "category": "CWDM GBIC/SFP",
-                    "value": 4
-                },
-                {
-                    "category": "Ethernet Switching Network Modules",
-                    "value": 5
-                },
-                {
-                    "category": "GBICs",
-                    "value": 6
-                },
-                {
-                    "category": "High Density Voice/Fax Network Modules",
-                    "value": 7
-                },
-                {
-                    "category": "High-Speed WAN Interface Cards",
-                    "value": 8
-                },
-                {
-                    "category": "Integrated Services Router (ISR) Modules",
-                    "value": 9
-                },
-                {
-                    "category": "Interface Cards",
-                    "value": 10
-                },
-                {
-                    "category": "IP Communications Voice/Fax Network Modules",
-                    "value": 11
-                },
-                {
-                    "category": "Line cards",
-                    "value": 12
-                },
-                {
-                    "category": "LTE Wireless WAN Interfaces",
-                    "value": 13
-                },
-                {
-                    "category": "Network Modules",
-                    "value": 14
-                },
-                {
-                    "category": "Nexus SmartNIC",
-                    "value": 15
-                },
-                {
-                    "category": "Port Adapters",
-                    "value": 16
-                },
-                {
-                    "category": "Route Processors and Route Switch Processors",
-                    "value": 17
-                },
-                {
-                    "category": "Security Modules for Routers and Switches",
-                    "value": 18
-                },
-                {
-                    "category": "Security Modules for Security Appliances",
-                    "value": 19
-                },
-                {
-                    "category": "Services Modules",
-                    "value": 20
-                },
-                {
-                    "category": "Services-Ready Engine (SRE) Modules",
-                    "value": 21
-                },
-                {
-                    "category": "SFPs",
-                    "value": 22
-                },
-                {
-                    "category": "Shared Port Adapters/SPA Interface Processors",
-                    "value": 23
-                },
-                {
-                    "category": "Small Business Network Accessories",
-                    "value": 24
-                },
-                {
-                    "category": "Storage Networking Modules",
-                    "value": 25
-                },
-                {
-                    "category": "Transceiver Modules",
-                    "value": 26
-                },
-                {
-                    "category": "Unified Computing System Adapters",
-                    "value": 27
-                },
-                {
-                    "category": "Voice Modules and Interface Cards",
-                    "value": 28
-                },
-                {
-                    "category": "WAN Interface Cards",
-                    "value": 29
-                }
-            ]
-        },
-        {
-            "category": "Cloud and Systems Management",
-            "products": [
-                {
-                    "category": "Access Registrar",
-                    "value": 1
-                },
-                {
-                    "category": "Air-Gapped Collector",
-                    "value": 2
-                },
-                {
-                    "category": "Application Centric Infrastructure Simulator",
-                    "value": 3
-                },
-                {
-                    "category": "Application Policy Infrastructure Controller (APIC)",
-                    "value": 4
-                },
-                {
-                    "category": "Application Policy Infrastructure Controller Enterprise Module (APIC-EM)",
-                    "value": 5
-                },
-                {
-                    "category": "Application Services Engine",
-                    "value": 6
-                },
-                {
-                    "category": "Automated Fault Management",
-                    "value": 7
-                },
-                {
-                    "category": "Business Mobile App",
-                    "value": 8
-                },
-                {
-                    "category": "Catalyst Center",
-                    "value": 9
-                },
-                {
-                    "category": "Cisco Business Dashboard",
-                    "value": 10
-                },
-                {
-                    "category": "Cisco Container Platform",
-                    "value": 11
-                },
-                {
-                    "category": "Cisco DNA Traffic Telemetry Appliance",
-                    "value": 12
-                },
-                {
-                    "category": "Cloud Network Automation Provisioner",
-                    "value": 13
-                },
-                {
-                    "category": "Cloud Network Controller",
-                    "value": 14
-                },
-                {
-                    "category": "Cloud Portal",
-                    "value": 15
-                },
-                {
-                    "category": "CloudCenter",
-                    "value": 16
-                },
-                {
-                    "category": "CloudCenter Suite",
-                    "value": 17
-                },
-                {
-                    "category": "Collaboration Audit and Assessments",
-                    "value": 18
-                },
-                {
-                    "category": "Common Services Platform Collector (CSPC)",
-                    "value": 19
-                },
-                {
-                    "category": "Configuration Assistant (CCA)",
-                    "value": 20
-                },
-                {
-                    "category": "Configuration Engine",
-                    "value": 21
-                },
-                {
-                    "category": "Configuration Professional Express",
-                    "value": 22
-                },
-                {
-                    "category": "Configuration Professional for Catalyst",
-                    "value": 23
-                },
-                {
-                    "category": "Connected Grid Design Suite Substation Workbench",
-                    "value": 24
-                },
-                {
-                    "category": "Crosswork Cloud",
-                    "value": 25
-                },
-                {
-                    "category": "Crosswork Network Automation",
-                    "value": 26
-                },
-                {
-                    "category": "Crosswork Network Services Orchestrator",
-                    "value": 27
-                },
-                {
-                    "category": "Crosswork Workflow Manager",
-                    "value": 28
-                },
-                {
-                    "category": "CX Cloud Agent",
-                    "value": 29
-                },
-                {
-                    "category": "Dynamic Fabric Automation",
-                    "value": 30
-                },
-                {
-                    "category": "Edge Fog Fabric",
-                    "value": 31
-                },
-                {
-                    "category": "Elastic Services Controller",
-                    "value": 32
-                },
-                {
-                    "category": "Enterprise Service Automation",
-                    "value": 33
-                },
-                {
-                    "category": "Evolved Programmable Network Manager",
-                    "value": 34
-                },
-                {
-                    "category": "Extensible Network Controller (XNC)",
-                    "value": 35
-                },
-                {
-                    "category": "Fabric Manager",
-                    "value": 36
-                },
-                {
-                    "category": "FindIT Network Management",
-                    "value": 37
-                },
-                {
-                    "category": "Fog Director",
-                    "value": 38
-                },
-                {
-                    "category": "Hosted Collaboration Mediation",
-                    "value": 39
-                },
-                {
-                    "category": "Hybrid Solution for Kubernetes on AWS",
-                    "value": 40
-                },
-                {
-                    "category": "Industrial Asset Vision",
-                    "value": 41
-                },
-                {
-                    "category": "Industrial Network Director",
-                    "value": 42
-                },
-                {
-                    "category": "Intelligent Automation for Cloud",
-                    "value": 43
-                },
-                {
-                    "category": "Intersight",
-                    "value": 44
-                },
-                {
-                    "category": "Intersight Workload Optimizer",
-                    "value": 45
-                },
-                {
-                    "category": "IoT Field Network Director",
-                    "value": 46
-                },
-                {
-                    "category": "IoT Operations Dashboard",
-                    "value": 47
-                },
-                {
-                    "category": "IOx",
-                    "value": 48
-                },
-                {
-                    "category": "Kinetic",
-                    "value": 49
-                },
-                {
-                    "category": "Kinetic for Cities",
-                    "value": 50
-                },
-                {
-                    "category": "Managed Services Accelerator",
-                    "value": 51
-                },
-                {
-                    "category": "Manufacturing IoT Demo",
-                    "value": 52
-                },
-                {
-                    "category": "Modeling Labs",
-                    "value": 53
-                },
-                {
-                    "category": "Network Configuration and Change Management",
-                    "value": 54
-                },
-                {
-                    "category": "Network Services Manager",
-                    "value": 55
-                },
-                {
-                    "category": "Nexus Dashboard Data Broker",
-                    "value": 56
-                },
-                {
-                    "category": "Nexus Dashboard Fabric Controller (Formerly DCNM)",
-                    "value": 57
-                },
-                {
-                    "category": "Nexus Dashboard Orchestrator",
-                    "value": 58
-                },
-                {
-                    "category": "Nexus Fabric Manager",
-                    "value": 59
-                },
-                {
-                    "category": "NFV Infrastructure",
-                    "value": 60
-                },
-                {
-                    "category": "Operational Insights Collector",
-                    "value": 61
-                },
-                {
-                    "category": "Plug-in for OpenFlow",
-                    "value": 62
-                },
-                {
-                    "category": "Prime Access Registrar",
-                    "value": 63
-                },
-                {
-                    "category": "Prime Cable Provisioning",
-                    "value": 64
-                },
-                {
-                    "category": "Prime Central",
-                    "value": 65
-                },
-                {
-                    "category": "Prime for Evolved Programmable Networks",
-                    "value": 66
-                },
-                {
-                    "category": "Prime for Mobility",
-                    "value": 67
-                },
-                {
-                    "category": "Prime Home",
-                    "value": 68
-                },
-                {
-                    "category": "Prime Infrastructure",
-                    "value": 69
-                },
-                {
-                    "category": "Prime IP Express",
-                    "value": 70
-                },
-                {
-                    "category": "Prime IP Express Jumpstart",
-                    "value": 71
-                },
-                {
-                    "category": "Prime License Manager",
-                    "value": 72
-                },
-                {
-                    "category": "Prime Network",
-                    "value": 73
-                },
-                {
-                    "category": "Prime Network Analysis Module Software",
-                    "value": 74
-                },
-                {
-                    "category": "Prime Network Registrar",
-                    "value": 75
-                },
-                {
-                    "category": "Prime Network Registrar Jumpstart",
-                    "value": 76
-                },
-                {
-                    "category": "Prime Network Services Controller",
-                    "value": 77
-                },
-                {
-                    "category": "Prime Optical",
-                    "value": 78
-                },
-                {
-                    "category": "Prime Performance Manager",
-                    "value": 79
-                },
-                {
-                    "category": "Prime Provisioning",
-                    "value": 80
-                },
-                {
-                    "category": "Prime Service Catalog",
-                    "value": 81
-                },
-                {
-                    "category": "Prime Virtual Network Analysis Module (vNAM)",
-                    "value": 82
-                },
-                {
-                    "category": "Process Orchestrator",
-                    "value": 83
-                },
-                {
-                    "category": "Secure Access Control Server",
-                    "value": 84
-                },
-                {
-                    "category": "Secure Equipment Access",
-                    "value": 85
-                },
-                {
-                    "category": "Small Business FindIT Network Discovery Utility",
-                    "value": 86
-                },
-                {
-                    "category": "Smart Call Home",
-                    "value": 87
-                },
-                {
-                    "category": "Smart Net Total Care",
-                    "value": 88
-                },
-                {
-                    "category": "Smart Software Manager",
-                    "value": 89
-                },
-                {
-                    "category": "Terminal Services Gateways",
-                    "value": 90
-                },
-                {
-                    "category": "ThousandEyes End User Monitoring",
-                    "value": 91
-                },
-                {
-                    "category": "ThousandEyes Internet Insights",
-                    "value": 92
-                },
-                {
-                    "category": "ThousandEyes Network and Application Synthetics",
-                    "value": 93
-                },
-                {
-                    "category": "Virtual Network Management Center",
-                    "value": 94
-                },
-                {
-                    "category": "Virtual Topology System",
-                    "value": 95
-                },
-                {
-                    "category": "Virtualized Infrastructure Manager",
-                    "value": 96
-                },
-                {
-                    "category": "Workplace Portal",
-                    "value": 97
-                }
-            ]
-        },
-        {
-            "category": "Collaboration Endpoints",
-            "products": [
-                {
-                    "category": "Board Series",
-                    "value": 1
-                },
-                {
-                    "category": "Desk Series",
-                    "value": 2
-                },
-                {
-                    "category": "Microphones",
-                    "value": 3
-                },
-                {
-                    "category": "Multi-head Cables",
-                    "value": 4
-                },
-                {
-                    "category": "Room Navigator",
-                    "value": 5
-                },
-                {
-                    "category": "Room Phone",
-                    "value": 6
-                },
-                {
-                    "category": "Room Series",
-                    "value": 7
-                },
-                {
-                    "category": "SIP IP Phone Software",
-                    "value": 8
-                },
-                {
-                    "category": "Small Business Voice Accessories",
-                    "value": 9
-                },
-                {
-                    "category": "TC Console",
-                    "value": 10
-                },
-                {
-                    "category": "TelePresence Administration Software",
-                    "value": 11
-                },
-                {
-                    "category": "TelePresence ISDN Link",
-                    "value": 12
-                },
-                {
-                    "category": "TelePresence MX Series",
-                    "value": 13
-                },
-                {
-                    "category": "TelePresence Precision Cameras",
-                    "value": 14
-                },
-                {
-                    "category": "TelePresence PrecisionHD Cameras",
-                    "value": 15
-                },
-                {
-                    "category": "TelePresence Remote Control",
-                    "value": 16
-                },
-                {
-                    "category": "TelePresence SX Series",
-                    "value": 17
-                },
-                {
-                    "category": "TelePresence System EX Series",
-                    "value": 18
-                },
-                {
-                    "category": "Touch",
-                    "value": 19
-                },
-                {
-                    "category": "Webex Share",
-                    "value": 20
-                },
-                {
-                    "category": "Wireless Phone",
-                    "value": 21
-                }
-            ]
-        },
-        {
-            "category": "Conferencing",
-            "products": [
-                {
-                    "category": "Collaboration Meeting Rooms (CMR)",
-                    "value": 1
-                },
-                {
-                    "category": "Meeting App",
-                    "value": 2
-                },
-                {
-                    "category": "Meeting Management",
-                    "value": 3
-                },
-                {
-                    "category": "Meeting Server",
-                    "value": 4
-                },
-                {
-                    "category": "TelePresence Content Server",
-                    "value": 5
-                },
-                {
-                    "category": "TelePresence Management Suite (TMS)",
-                    "value": 6
-                },
-                {
-                    "category": "TelePresence Management Suite Extensions",
-                    "value": 7
-                },
-                {
-                    "category": "TelePresence MCU MSE Series",
-                    "value": 8
-                },
-                {
-                    "category": "Webex Cloud Connected Audio",
-                    "value": 9
-                },
-                {
-                    "category": "Webex Control Hub",
-                    "value": 10
-                },
-                {
-                    "category": "Webex Edge",
-                    "value": 11
-                },
-                {
-                    "category": "Webex Events",
-                    "value": 12
-                },
-                {
-                    "category": "WebEx Meetings",
-                    "value": 13
-                },
-                {
-                    "category": "Webex Meetings Online",
-                    "value": 14
-                },
-                {
-                    "category": "Webex Meetings Server",
-                    "value": 15
-                },
-                {
-                    "category": "Webex Support",
-                    "value": 16
-                },
-                {
-                    "category": "Webex Training",
-                    "value": 17
-                }
-            ]
-        },
-        {
-            "category": "Connected Safety and Security",
-            "products": [
-                {
-                    "category": "IP Camera Applications and Utilities",
-                    "value": 1
-                },
-                {
-                    "category": "Video Surveillance Manager",
-                    "value": 2
-                },
-                {
-                    "category": "Video Surveillance Operations Manager Software",
-                    "value": 3
-                },
-                {
-                    "category": "Video Surveillance PTZ IP Cameras",
-                    "value": 4
-                },
-                {
-                    "category": "Virtualized Applications for UCS",
-                    "value": 5
-                }
-            ]
-        },
-        {
-            "category": "Contact Center ",
-            "products": [
-                {
-                    "category": "Computer Telephony Integration Option",
-                    "value": 1
-                },
-                {
-                    "category": "Enterprise Chat and Email",
-                    "value": 2
-                },
-                {
-                    "category": "Finesse",
-                    "value": 3
-                },
-                {
-                    "category": "Outbound Option",
-                    "value": 4
-                },
-                {
-                    "category": "Packaged Contact Center Enterprise",
-                    "value": 5
-                },
-                {
-                    "category": "Remote Expert Mobile",
-                    "value": 6
-                },
-                {
-                    "category": "SocialMiner",
-                    "value": 7
-                },
-                {
-                    "category": "Unified Call Studio",
-                    "value": 8
-                },
-                {
-                    "category": "Unified Contact Center Enterprise",
-                    "value": 9
-                },
-                {
-                    "category": "Unified Contact Center Express",
-                    "value": 10
-                },
-                {
-                    "category": "Unified Contact Center Management Portal",
-                    "value": 11
-                },
-                {
-                    "category": "Unified Customer Voice Portal",
-                    "value": 12
-                },
-                {
-                    "category": "Unified Intelligence Center",
-                    "value": 13
-                },
-                {
-                    "category": "Unified Intelligent Contact Management Enterprise",
-                    "value": 14
-                },
-                {
-                    "category": "Unified IP Interactive Voice Response (IVR)",
-                    "value": 15
-                },
-                {
-                    "category": "Unified Workforce Optimization",
-                    "value": 16
-                },
-                {
-                    "category": "Virtualized Voice Browser",
-                    "value": 17
-                },
-                {
-                    "category": "Webex Contact Center",
-                    "value": 18
-                },
-                {
-                    "category": "Webex Contact Center Enterprise",
-                    "value": 19
-                },
-                {
-                    "category": "Webex Contact Center Enterprise for Government",
-                    "value": 20
-                },
-                {
-                    "category": "Webex Experience Management (formerly CloudCherry)",
-                    "value": 21
-                },
-                {
-                    "category": "Webex Workforce Optimization",
-                    "value": 22
-                }
-            ]
-        },
-        {
-            "category": "Data Center Analytics",
-            "products": [
-                {
-                    "category": "Cisco Network Assurance Engine - End-of-Sale",
-                    "value": 1
-                },
-                {
-                    "category": "Cisco Network Insights for Data Center",
-                    "value": 2
-                },
-                {
-                    "category": "Cisco Nexus Dashboard",
-                    "value": 3
-                },
-                {
-                    "category": "Cisco Nexus Dashboard Insights",
-                    "value": 4
-                }
-            ]
-        },
-        {
-            "category": "Hyperconverged Infrastructure",
-            "products": [
-                {
-                    "category": "Compute Hyperconverged with Nutanix",
-                    "value": 1
-                },
-                {
-                    "category": "HyperFlex HX Data Platform",
-                    "value": 2
-                },
-                {
-                    "category": "HyperFlex HX Series",
-                    "value": 3
-                }
-            ]
-        },
-        {
-            "category": "Networking Software (IOS & NX-OS)",
-            "products": [
-                {
-                    "category": "IOS XE 16 (includes Denali, Everest, Fuji and Gibraltar releases)",
-                    "value": 1
-                },
-                {
-                    "category": "IOS XE 17 (includes Amsterdam, Bengaluru, Cupertino and Dublin releases)",
-                    "value": 2
-                },
-                {
-                    "category": "IOS XE 3E",
-                    "value": 3
-                },
-                {
-                    "category": "IOS XE 3S",
-                    "value": 4
-                },
-                {
-                    "category": "IOS XE 3SE",
-                    "value": 5
-                },
-                {
-                    "category": "IOS XE 3SG",
-                    "value": 6
-                },
-                {
-                    "category": "IOS XE Release 2",
-                    "value": 7
-                },
-                {
-                    "category": "IOS XR",
-                    "value": 8
-                },
-                {
-                    "category": "IOS XR Software (End-of-Sale)",
-                    "value": 9
-                },
-                {
-                    "category": "IOS XRv Software",
-                    "value": 10
-                },
-                {
-                    "category": "NX-OS Software",
-                    "value": 11
-                }
-            ]
-        },
-        {
-            "category": "Networking Technologies and Protocols",
-            "products": [
-                {
-                    "category": "Asynchronous Transfer Mode (ATM)",
-                    "products": [
-                        {
-                            "category": "ATM Signaling",
-                            "value": 1
-                        },
-                        {
-                            "category": "ATM to Frame Relay Interworking",
-                            "value": 1
-                        },
-                        {
-                            "category": "ATM Traffic Management",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP over ATM",
-                            "value": 1
-                        },
-                        {
-                            "category": "LAN Emulation (LANE)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Permanent Virtual Circuits (PVC) and Switched Virtual Circuits (SVC)",
-                            "value": 1
-                        },
-                        {
-                            "category": "VP (Virtual Path) Switching and Tunnels",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Availability",
-                    "products": [
-                        {
-                            "category": "High Availability",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Broadband Cable",
-                    "products": [
-                        {
-                            "category": "Cable Management and Services",
-                            "value": 1
-                        },
-                        {
-                            "category": "Cable Modem Termination Systems (CMTS)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Cable Modems",
-                            "value": 1
-                        },
-                        {
-                            "category": "Cable Security",
-                            "value": 1
-                        },
-                        {
-                            "category": "Cable Video",
-                            "value": 1
-                        },
-                        {
-                            "category": "Data-over-Cable Service Interface Specifications (DOCSIS)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Radio Frequency (RF) Hybrid Fiber-Coaxial (HFC)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Telco - Return",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Content Networking",
-                    "products": [
-                        {
-                            "category": "Certificates",
-                            "value": 1
-                        },
-                        {
-                            "category": "Keepalives",
-                            "value": 1
-                        },
-                        {
-                            "category": "Redundancy",
-                            "value": 1
-                        },
-                        {
-                            "category": "TCP and UDP Stateful Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "TCP and UDP Static Port Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "Web Cache Communications Protocol (WCCP)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Dial and Access",
-                    "products": [
-                        {
-                            "category": "Asynchronous Connections",
-                            "value": 1
-                        },
-                        {
-                            "category": "Dial-on-Demand Routing (DDR)",
-                            "value": 1
-                        },
-                        {
-                            "category": "ISDN, CAS",
-                            "value": 1
-                        },
-                        {
-                            "category": "Virtual Private Dialup Network (VPDN)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "IBM Technologies",
-                    "products": [
-                        {
-                            "category": "IBM CIP Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "IBM Networking",
-                            "value": 1
-                        },
-                        {
-                            "category": "IBM Presentation Services",
-                            "value": 1
-                        },
-                        {
-                            "category": "IBM SNA Networking",
-                            "value": 1
-                        },
-                        {
-                            "category": "Token Ring",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "IP",
-                    "products": [
-                        {
-                            "category": "IP Addressing Services",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Application Services",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Multicast",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Routed Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Routing",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Security Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Switching",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Tunneling",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Version 6 (IPv6)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "LAN Switching",
-                    "products": [
-                        {
-                            "category": "EtherChannel",
-                            "value": 1
-                        },
-                        {
-                            "category": "Ethernet",
-                            "value": 1
-                        },
-                        {
-                            "category": "Fiber Distributed/Copper Distributed Data Interface (FDDI/CDDI)",
-                            "value": 1
-                        },
-                        {
-                            "category": "LAN Quality of Service",
-                            "value": 1
-                        },
-                        {
-                            "category": "LAN Security",
-                            "value": 1
-                        },
-                        {
-                            "category": "Layer-Three Switching and Forwarding",
-                            "value": 1
-                        },
-                        {
-                            "category": "Port Monitoring",
-                            "value": 1
-                        },
-                        {
-                            "category": "Spanning Tree Protocol",
-                            "value": 1
-                        },
-                        {
-                            "category": "Switch Redundancy and Management",
-                            "value": 1
-                        },
-                        {
-                            "category": "Virtual LANs/VLAN Trunking Protocol (VLANs/VTP)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Long Reach Ethernet (LRE) and Digital Subscriber Line (xDSL)",
-                    "products": [
-                        {
-                            "category": "LRE/VDSL (Long-Reach Ethernet/Very-high-data-rate DSL)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Service Selection Gateway (SSG)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Multiprotocol Label Switching (MPLS)",
-                    "products": [
-                        {
-                            "category": "Multiprotocol Label Switching for VPNs (MPLS for VPNs)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Multiprotocol Label Switching over ATM (MPLS over ATM)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Network Management",
-                    "products": [
-                        {
-                            "category": "Network Monitoring",
-                            "value": 1
-                        },
-                        {
-                            "category": "Remote Access",
-                            "value": 1
-                        },
-                        {
-                            "category": "System Availability",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Optical",
-                    "products": [
-                        {
-                            "category": "Dense Wavelength Division Multiplexing (DWDM)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Spatial Reuse Protocol/Dynamic Packet Transport (SRP/DPT)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Synchronous Digital Hierarchy (SDH)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Synchronous Optical NETwork (SONET)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Quality of Service (QoS)",
-                    "products": [
-                        {
-                            "category": "Netflow",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Configuration and Monitoring",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Congestion Avoidance",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Congestion Management (queueing)",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Link Efficiency Mechanisms",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Packet Classification",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Packet Marking",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Policing",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Signaling",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Solutions",
-                            "value": 1
-                        },
-                        {
-                            "category": "QoS Traffic Shaping",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Security and VPN",
-                    "products": [
-                        {
-                            "category": "Authentication Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "IDS/IPS - Detection & Signatures",
-                            "value": 1
-                        },
-                        {
-                            "category": "IDS/IPS - Reaction & Response",
-                            "value": 1
-                        },
-                        {
-                            "category": "IPSec Architecture and Implementation",
-                            "value": 1
-                        },
-                        {
-                            "category": "IPSec Negotiation/IKE Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "Lawful Intercept",
-                            "value": 1
-                        },
-                        {
-                            "category": "Lock & Key",
-                            "value": 1
-                        },
-                        {
-                            "category": "Network Admission Control (NAC)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Public Key Infrastructure (PKI)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Secure Shell (SSH)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Secure Socket Layer (SSL)",
-                            "value": 1
-                        },
-                        {
-                            "category": "WebVPN / SSL VPN",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Storage Networking",
-                    "products": [
-                        {
-                            "category": "Additional Storage Networking",
-                            "value": 1
-                        },
-                        {
-                            "category": "Fiber Channel over IP (FCIP)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Management",
-                            "value": 1
-                        },
-                        {
-                            "category": "SCSI (Small Computer Systems Interface)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Security",
-                            "value": 1
-                        },
-                        {
-                            "category": "Small Computer Systems Interface over IP (iSCSI)",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Voice",
-                    "products": [
-                        {
-                            "category": "Application Communications",
-                            "value": 1
-                        },
-                        {
-                            "category": "Call Routing / Dial Plans",
-                            "value": 1
-                        },
-                        {
-                            "category": "Device Signaling",
-                            "value": 1
-                        },
-                        {
-                            "category": "Fax / Modem over IP",
-                            "value": 1
-                        },
-                        {
-                            "category": "Gateway Protocols",
-                            "value": 1
-                        },
-                        {
-                            "category": "IP Telephony/Voice over IP (VoIP)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Telephony Signaling",
-                            "value": 1
-                        },
-                        {
-                            "category": "Voice Application Development",
-                            "value": 1
-                        },
-                        {
-                            "category": "Voice Quality",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "WAN",
-                    "products": [
-                        {
-                            "category": "Data Compression",
-                            "value": 1
-                        },
-                        {
-                            "category": "Frame Relay",
-                            "value": 1
-                        },
-                        {
-                            "category": "Point-to-Point Protocol (PPP)",
-                            "value": 1
-                        },
-                        {
-                            "category": "T1/E1 & T3/E3",
-                            "value": 1
-                        },
-                        {
-                            "category": "TDM",
-                            "value": 1
-                        },
-                        {
-                            "category": "X.25 Protocols",
-                            "value": 1
-                        }
-                    ]
-                },
-                {
-                    "category": "Wireless / Mobility",
-                    "products": [
-                        {
-                            "category": "Wireless, Fixed",
-                            "value": 1
-                        },
-                        {
-                            "category": "Wireless, LAN (WLAN)",
-                            "value": 1
-                        },
-                        {
-                            "category": "Wireless, Mobile",
-                            "value": 1
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "category": "Optical Networking",
-            "products": [
-                {
-                    "category": "Automated Subsea Tuning",
-                    "value": 1
-                },
-                {
-                    "category": "Carrier Packet Transport (CPT) System",
-                    "value": 2
-                },
-                {
-                    "category": "DWDM Design Tool",
-                    "value": 3
-                },
-                {
-                    "category": "Optical Network Controller",
-                    "value": 4
-                },
-                {
-                    "category": "Optical Network Planner",
-                    "value": 5
-                },
-                {
-                    "category": "Routed Optical Networking",
-                    "value": 6
-                },
-                {
-                    "category": "TransportPlanner",
-                    "value": 7
-                }
-            ]
-        },
-        {
-            "category": "Routers",
-            "products": [
-                {
-                    "category": "Carrier Routing System",
-                    "value": 1
-                },
-                {
-                    "category": "Catalyst Cellular Gateways",
-                    "value": 2
-                },
-                {
-                    "category": "Catalyst Wireless Gateway",
-                    "value": 3
-                },
-                {
-                    "category": "Cloud Native Broadband Network Gateway (BNG)",
-                    "value": 4
-                },
-                {
-                    "category": "Cloud Native Broadband Router",
-                    "value": 5
-                },
-                {
-                    "category": "Enterprise NFV Infrastructure Software",
-                    "value": 6
-                },
-                {
-                    "category": "Integrated Services Virtual Router",
-                    "value": 7
-                },
-                {
-                    "category": "IOS XR for Third Party Hardware",
-                    "value": 8
-                },
-                {
-                    "category": "IOS XRd",
-                    "value": 9
-                },
-                {
-                    "category": "IOS XRv Router",
-                    "value": 10
-                },
-                {
-                    "category": "SD-WAN",
-                    "value": 11
-                },
-                {
-                    "category": "SD-WAN Cloud OnRamp for Co-Location",
-                    "value": 12
-                },
-                {
-                    "category": "Small Business RV Series Routers",
-                    "value": 13
-                },
-                {
-                    "category": "vEdge Router",
-                    "value": 14
-                },
-                {
-                    "category": "Virtual Wide Area Application Services (vWAAS)",
-                    "value": 15
-                },
-                {
-                    "category": "WAN Automation Engine (WAE)",
-                    "value": 16
-                },
-                {
-                    "category": "Wide Area Application Services (WAAS) Express",
-                    "value": 17
-                },
-                {
-                    "category": "Wide Area Application Services (WAAS) Software",
-                    "value": 18
-                },
-                {
-                    "category": "Wide Area Virtualization Engines",
-                    "value": 19
-                },
-                {
-                    "category": "Wireless Gateway for LoRaWAN",
-                    "value": 20
-                },
-                {
-                    "category": "XE SD-WAN Routers",
-                    "value": 21
-                }
-            ]
-        },
-        {
-            "category": "Security",
-            "products": [
-                {
-                    "category": "AMP for Networks",
-                    "value": 1
-                },
-                {
-                    "category": "Attack Surface Management",
-                    "value": 2
-                },
-                {
-                    "category": "Cisco Telemetry Broker",
-                    "value": 3
-                },
-                {
-                    "category": "Cloud Application Security",
-                    "value": 4
-                },
-                {
-                    "category": "Cloud Email Security",
-                    "value": 5
-                },
-                {
-                    "category": "Cloudlock",
-                    "value": 6
-                },
-                {
-                    "category": "Cyber Threat Defense",
-                    "value": 7
-                },
-                {
-                    "category": "Cyber Vision",
-                    "value": 8
-                },
-                {
-                    "category": "Defense Orchestrator",
-                    "value": 9
-                },
-                {
-                    "category": "Duo",
-                    "value": 10
-                },
-                {
-                    "category": "Dynamic Multipoint VPN (DMVPN)",
-                    "value": 11
-                },
-                {
-                    "category": "Email Encryption",
-                    "value": 12
-                },
-                {
-                    "category": "Endpoint Security Analytics Built on Splunk",
-                    "value": 13
-                },
-                {
-                    "category": "FlexVPN",
-                    "value": 14
-                },
-                {
-                    "category": "Group Encrypted Transport VPN",
-                    "value": 15
-                },
-                {
-                    "category": "Identity Services Engine",
-                    "value": 16
-                },
-                {
-                    "category": "IOS Easy VPN",
-                    "value": 17
-                },
-                {
-                    "category": "IOS Firewall",
-                    "value": 18
-                },
-                {
-                    "category": "IOS Intrusion Prevention System (IPS)",
-                    "value": 19
-                },
-                {
-                    "category": "IOS Intrusion Prevention System Feature Software",
-                    "value": 20
-                },
-                {
-                    "category": "IOS Intrusion Prevention System Signatures for Cisco Configuration Professional",
-                    "value": 21
-                },
-                {
-                    "category": "IOS Network Address Translation (NAT)",
-                    "value": 22
-                },
-                {
-                    "category": "IOS SSL VPN",
-                    "value": 23
-                },
-                {
-                    "category": "ISE Passive Identity Connector",
-                    "value": 24
-                },
-                {
-                    "category": "Multicloud Defense",
-                    "value": 25
-                },
-                {
-                    "category": "NGIPS for Blue Coat X-Series",
-                    "value": 26
-                },
-                {
-                    "category": "NGIPS Virtual Appliance",
-                    "value": 27
-                },
-                {
-                    "category": "Registered Envelope Service",
-                    "value": 28
-                },
-                {
-                    "category": "Router Security",
-                    "value": 29
-                },
-                {
-                    "category": "Secure Access",
-                    "value": 30
-                },
-                {
-                    "category": "Secure Access Control System",
-                    "value": 31
-                },
-                {
-                    "category": "Secure Awareness Training",
-                    "value": 32
-                },
-                {
-                    "category": "Secure Client (including AnyConnect)",
-                    "value": 33
-                },
-                {
-                    "category": "Secure Cloud Analytics",
-                    "value": 34
-                },
-                {
-                    "category": "Secure DDoS Protection",
-                    "value": 35
-                },
-                {
-                    "category": "Secure Email and Web Manager",
-                    "value": 36
-                },
-                {
-                    "category": "Secure Email and Web Manager Virtual",
-                    "value": 37
-                },
-                {
-                    "category": "Secure Email Gateway",
-                    "value": 38
-                },
-                {
-                    "category": "Secure Email Threat Defense",
-                    "value": 39
-                },
-                {
-                    "category": "Secure Email Virtual Gateway",
-                    "value": 40
-                },
-                {
-                    "category": "Secure Endpoint",
-                    "value": 41
-                },
-                {
-                    "category": "Secure Endpoint Private Cloud",
-                    "value": 42
-                },
-                {
-                    "category": "Secure Firewall ASA",
-                    "value": 43
-                },
-                {
-                    "category": "Secure Firewall ASA Virtual",
-                    "value": 44
-                },
-                {
-                    "category": "Secure Firewall ASDM",
-                    "value": 45
-                },
-                {
-                    "category": "Secure Firewall Cloud Native",
-                    "value": 46
-                },
-                {
-                    "category": "Secure Firewall Management Center",
-                    "value": 47
-                },
-                {
-                    "category": "Secure Firewall Management Center Virtual",
-                    "value": 48
-                },
-                {
-                    "category": "Secure Firewall Migration Tool",
-                    "value": 49
-                },
-                {
-                    "category": "Secure Firewall Threat Defense",
-                    "value": 50
-                },
-                {
-                    "category": "Secure Firewall Threat Defense Virtual",
-                    "value": 51
-                },
-                {
-                    "category": "Secure Malware Analytics Appliances",
-                    "value": 52
-                },
-                {
-                    "category": "Secure Malware Analytics Cloud (Threat Grid – Cloud)",
-                    "value": 53
-                },
-                {
-                    "category": "Secure Network Analytics",
-                    "value": 54
-                },
-                {
-                    "category": "Secure Network Analytics Data Store",
-                    "value": 55
-                },
-                {
-                    "category": "Secure Network Analytics Flow Collector",
-                    "value": 56
-                },
-                {
-                    "category": "Secure Network Analytics Flow Sensor",
-                    "value": 57
-                },
-                {
-                    "category": "Secure Network Analytics Manager",
-                    "value": 58
-                },
-                {
-                    "category": "Secure Network Analytics UDP Director",
-                    "value": 59
-                },
-                {
-                    "category": "Secure Network Analytics Virtual Data Store",
-                    "value": 60
-                },
-                {
-                    "category": "Secure Network Analytics Virtual Endpoint Concentrator",
-                    "value": 61
-                },
-                {
-                    "category": "Secure Network Analytics Virtual Flow Collector",
-                    "value": 62
-                },
-                {
-                    "category": "Secure Network Analytics Virtual Flow Sensor",
-                    "value": 63
-                },
-                {
-                    "category": "Secure Network Analytics Virtual Manager",
-                    "value": 64
-                },
-                {
-                    "category": "Secure Network Analytics Virtual UDP Director",
-                    "value": 65
-                },
-                {
-                    "category": "Secure Sign-On",
-                    "value": 66
-                },
-                {
-                    "category": "Secure Web Appliance",
-                    "value": 67
-                },
-                {
-                    "category": "Secure Web Appliance Virtual",
-                    "value": 68
-                },
-                {
-                    "category": "Secure Workload",
-                    "value": 69
-                },
-                {
-                    "category": "SecureX",
-                    "value": 70
-                },
-                {
-                    "category": "Security Analytics and Logging",
-                    "value": 71
-                },
-                {
-                    "category": "Security Cloud",
-                    "value": 72
-                },
-                {
-                    "category": "Security Connector",
-                    "value": 73
-                },
-                {
-                    "category": "Security Manager",
-                    "value": 74
-                },
-                {
-                    "category": "Security Packet Analyzer",
-                    "value": 75
-                },
-                {
-                    "category": "Sourcefire AMP for FirePOWER Software License",
-                    "value": 76
-                },
-                {
-                    "category": "Sourcefire AMP for Network Virtual Appliance",
-                    "value": 77
-                },
-                {
-                    "category": "SSL Appliances",
-                    "value": 78
-                },
-                {
-                    "category": "Umbrella",
-                    "value": 79
-                },
-                {
-                    "category": "Virtual Security Packet Analyzer",
-                    "value": 80
-                },
-                {
-                    "category": "Vulnerability Management",
-                    "value": 81
-                },
-                {
-                    "category": "XDR",
-                    "value": 82
-                }
-            ]
-        },
-        {
-            "category": "Servers - Unified Computing (UCS)",
-            "products": [
-                {
-                    "category": "Integrated Management Controller",
-                    "value": 1
-                },
-                {
-                    "category": "Integrated Management Controller (IMC) Supervisor",
-                    "value": 2
-                },
-                {
-                    "category": "R Series Racks",
-                    "value": 3
-                },
-                {
-                    "category": "RP Series Power Distribution Units",
-                    "value": 4
-                },
-                {
-                    "category": "UCS - Hypervisors and Operating Systems",
-                    "value": 5
-                },
-                {
-                    "category": "UCS B-Series Blade Server Software",
-                    "value": 6
-                },
-                {
-                    "category": "UCS B-Series Blade Servers",
-                    "value": 7
-                },
-                {
-                    "category": "UCS C-Series Rack Servers",
-                    "value": 8
-                },
-                {
-                    "category": "UCS C-Series Rack-Mount Standalone Server Software",
-                    "value": 9
-                },
-                {
-                    "category": "UCS C-Series Rack-Mount UCS-Managed Server Software",
-                    "value": 10
-                },
-                {
-                    "category": "UCS Central Software",
-                    "value": 11
-                },
-                {
-                    "category": "UCS Director",
-                    "value": 12
-                },
-                {
-                    "category": "UCS E-Series Servers",
-                    "value": 13
-                },
-                {
-                    "category": "UCS E-Series Software",
-                    "value": 14
-                },
-                {
-                    "category": "UCS Express",
-                    "value": 15
-                },
-                {
-                    "category": "UCS Infrastructure and UCS Manager Software",
-                    "value": 16
-                },
-                {
-                    "category": "UCS M-Series Modular Servers",
-                    "value": 17
-                },
-                {
-                    "category": "UCS Management - Partner Ecosystem",
-                    "value": 18
-                },
-                {
-                    "category": "UCS Manager",
-                    "value": 19
-                },
-                {
-                    "category": "UCS Mini",
-                    "value": 20
-                },
-                {
-                    "category": "UCS Mini Software",
-                    "value": 21
-                },
-                {
-                    "category": "UCS S-Series Storage Servers",
-                    "value": 22
-                },
-                {
-                    "category": "UCS Virtual Interface Card",
-                    "value": 23
-                },
-                {
-                    "category": "UCS X-Series Modular System",
-                    "value": 24
-                },
-                {
-                    "category": "Unified Computing System",
-                    "value": 25
-                },
-                {
-                    "category": "Workload Optimization Manager",
-                    "value": 26
-                }
-            ]
-        },
-        {
-            "category": "Storage Networking",
-            "products": [
-                {
-                    "category": "MDS Blade Switch Series",
-                    "value": 1
-                },
-                {
-                    "category": "SAN Insights Discovery",
-                    "value": 2
-                }
-            ]
-        },
-        {
-            "category": "Switches",
-            "products": [
-                {
-                    "category": "Application Centric Infrastructure Virtual Edge",
-                    "value": 1
-                },
-                {
-                    "category": "Application Centric Infrastructure Virtual Pod",
-                    "value": 2
-                },
-                {
-                    "category": "Blade Switches for HP",
-                    "value": 3
-                },
-                {
-                    "category": "Catalyst Digital Building Series Switches",
-                    "value": 4
-                },
-                {
-                    "category": "Catalyst Micro Switches",
-                    "value": 5
-                },
-                {
-                    "category": "Catalyst PON Series",
-                    "value": 6
-                },
-                {
-                    "category": "Cloud Services Platforms",
-                    "value": 7
-                },
-                {
-                    "category": "Cluster Management Suite (CMS) Software",
-                    "value": 8
-                },
-                {
-                    "category": "Edge Series",
-                    "value": 9
-                },
-                {
-                    "category": "Fabric Analysis and Correlation Toolkit",
-                    "value": 10
-                },
-                {
-                    "category": "Redundant Power Systems",
-                    "value": 11
-                },
-                {
-                    "category": "SFS Solution for Dell",
-                    "value": 12
-                },
-                {
-                    "category": "SFS Solution for IBM BladeCenter-H",
-                    "value": 13
-                },
-                {
-                    "category": "Switch Modules for IBM",
-                    "value": 14
-                },
-                {
-                    "category": "Virtual Security Gateway",
-                    "value": 15
-                }
-            ]
-        },
-        {
-            "category": "TelePresence",
-            "products": [
-                {
-                    "category": "TelePresence Administration Software",
-                    "value": 1
-                },
-                {
-                    "category": "TelePresence ISDN Gateway - End-of-Support",
-                    "value": 2
-                },
-                {
-                    "category": "TelePresence ISDN Link - End-of-Sale",
-                    "value": 3
-                },
-                {
-                    "category": "TelePresence Management Suite (TMS) ",
-                    "value": 4
-                },
-                {
-                    "category": "TelePresence Management Suite Extensions  ",
-                    "value": 5
-                },
-                {
-                    "category": "TelePresence MCU MSE 8510  - End-of-Support",
-                    "value": 6
-                },
-                {
-                    "category": "TelePresence MX Series - End-of-Sale",
-                    "value": 7
-                },
-                {
-                    "category": "TelePresence Precision 60 Camera",
-                    "value": 8
-                },
-                {
-                    "category": "TelePresence Precision Cameras",
-                    "value": 9
-                },
-                {
-                    "category": "TelePresence PrecisionHD Cameras",
-                    "value": 10
-                },
-                {
-                    "category": "TelePresence Remote Control",
-                    "value": 11
-                },
-                {
-                    "category": "TelePresence Serial Gateway Series - End-of-Support",
-                    "value": 12
-                },
-                {
-                    "category": "TelePresence SpeakerTrack 60",
-                    "value": 13
-                },
-                {
-                    "category": "TelePresence SX Series (Quick Set) - End-of-Sale",
-                    "value": 14
-                },
-                {
-                    "category": "TelePresence System EX Series - End-of-Support",
-                    "value": 15
-                },
-                {
-                    "category": "TelePresence Touch",
-                    "value": 16
-                },
-                {
-                    "category": "TelePresence Video Communication Server (VCS) - End-of-Sale",
-                    "value": 17
-                }
-            ]
-        },
-        {
-            "category": "Unified Communications",
-            "products": [
-                {
-                    "category": "Applications for Cisco Unified Application Environment",
-                    "value": 1
-                },
-                {
-                    "category": "BroadCloud",
-                    "value": 2
-                },
-                {
-                    "category": "BroadCloud PaaS",
-                    "value": 3
-                },
-                {
-                    "category": "BroadWorks",
-                    "value": 4
-                },
-                {
-                    "category": "Collaboration Flex Plan",
-                    "value": 5
-                },
-                {
-                    "category": "Collaboration Systems Release",
-                    "value": 6
-                },
-                {
-                    "category": "Emergency Responder",
-                    "value": 7
-                },
-                {
-                    "category": "Expressway Series",
-                    "value": 8
-                },
-                {
-                    "category": "Gatekeeper/Multimedia Conference Manager",
-                    "value": 9
-                },
-                {
-                    "category": "Hosted Collaboration Solution (HCS)",
-                    "value": 10
-                },
-                {
-                    "category": "Hosted Collaboration Solution for Contact Center",
-                    "value": 11
-                },
-                {
-                    "category": "Hosted Unified Communications Services",
-                    "value": 12
-                },
-                {
-                    "category": "IOS Gateways with Session Initiation Protocol (SIP)",
-                    "value": 13
-                },
-                {
-                    "category": "Jabber",
-                    "value": 14
-                },
-                {
-                    "category": "Jabber Extensible Communications Platform (XCP)",
-                    "value": 15
-                },
-                {
-                    "category": "Jabber for Android",
-                    "value": 16
-                },
-                {
-                    "category": "Jabber for iPad",
-                    "value": 17
-                },
-                {
-                    "category": "Jabber for iPhone",
-                    "value": 18
-                },
-                {
-                    "category": "Jabber for iPhone and iPad",
-                    "value": 19
-                },
-                {
-                    "category": "Jabber for Mac",
-                    "value": 20
-                },
-                {
-                    "category": "Jabber for Windows",
-                    "value": 21
-                },
-                {
-                    "category": "Jabber Guest",
-                    "value": 22
-                },
-                {
-                    "category": "Jabber Softphone for VDI",
-                    "value": 23
-                },
-                {
-                    "category": "Jabber Software Development Kit",
-                    "value": 24
-                },
-                {
-                    "category": "Network Route Director",
-                    "value": 25
-                },
-                {
-                    "category": "Office Manager",
-                    "value": 26
-                },
-                {
-                    "category": "Paging Server",
-                    "value": 27
-                },
-                {
-                    "category": "Prime Collaboration",
-                    "value": 28
-                },
-                {
-                    "category": "Small Business Voice Gateways and ATAs",
-                    "value": 29
-                },
-                {
-                    "category": "TDM Gateways",
-                    "value": 30
-                },
-                {
-                    "category": "TelePresence ISDN Gateway",
-                    "value": 31
-                },
-                {
-                    "category": "TelePresence Serial Gateway Series",
-                    "value": 32
-                },
-                {
-                    "category": "TelePresence Video Communication Server (VCS)",
-                    "value": 33
-                },
-                {
-                    "category": "UC Integration(TM) for Cisco WebEx Connect",
-                    "value": 34
-                },
-                {
-                    "category": "UC Integration(TM) for Microsoft Lync",
-                    "value": 35
-                },
-                {
-                    "category": "UC-One",
-                    "value": 36
-                },
-                {
-                    "category": "Unified Application Designer",
-                    "value": 37
-                },
-                {
-                    "category": "Unified Attendant Consoles",
-                    "value": 38
-                },
-                {
-                    "category": "Unified Border Element",
-                    "value": 39
-                },
-                {
-                    "category": "Unified CallConnectors",
-                    "value": 40
-                },
-                {
-                    "category": "Unified Communications Licensing",
-                    "value": 41
-                },
-                {
-                    "category": "Unified Communications Manager (CallManager)",
-                    "value": 42
-                },
-                {
-                    "category": "Unified Communications Manager Assistant",
-                    "value": 43
-                },
-                {
-                    "category": "Unified Communications Manager Express",
-                    "value": 44
-                },
-                {
-                    "category": "Unified Communications Manager IM & Presence Service",
-                    "value": 45
-                },
-                {
-                    "category": "Unified Communications Manager Session Management Edition",
-                    "value": 46
-                },
-                {
-                    "category": "Unified Communications Widgets",
-                    "value": 47
-                },
-                {
-                    "category": "Unified Communications with Microsoft",
-                    "value": 48
-                },
-                {
-                    "category": "Unified Mobility",
-                    "value": 49
-                },
-                {
-                    "category": "Unified Quick Connect",
-                    "value": 50
-                },
-                {
-                    "category": "Unified SIP Proxy",
-                    "value": 51
-                },
-                {
-                    "category": "Unified Survivable Remote Site Telephony",
-                    "value": 52
-                },
-                {
-                    "category": "Unity Connection",
-                    "value": 53
-                },
-                {
-                    "category": "Unity Express",
-                    "value": 54
-                },
-                {
-                    "category": "VG Series Gateways",
-                    "value": 55
-                },
-                {
-                    "category": "WebAttendant",
-                    "value": 56
-                },
-                {
-                    "category": "Webex App",
-                    "value": 57
-                },
-                {
-                    "category": "Webex Calling",
-                    "value": 58
-                },
-                {
-                    "category": "Webex Cloud-Connected UC",
-                    "value": 59
-                },
-                {
-                    "category": "Webex for Cisco Broadworks",
-                    "value": 60
-                },
-                {
-                    "category": "WebEx Messenger",
-                    "value": 61
-                }
-            ]
-        },
-        {
-            "category": "Video",
-            "products": [
-                {
-                    "category": "cBR Series Converged Broadband Routers",
-                    "value": 1
-                },
-                {
-                    "category": "Cisco Vision",
-                    "value": 2
-                },
-                {
-                    "category": "Coaxial Media Converters",
-                    "value": 3
-                },
-                {
-                    "category": "Compact Amplifiers",
-                    "value": 4
-                },
-                {
-                    "category": "Compact Nodes",
-                    "value": 5
-                },
-                {
-                    "category": "DAVIC QPSK Devices",
-                    "value": 6
-                },
-                {
-                    "category": "Digital Media Encoders",
-                    "value": 7
-                },
-                {
-                    "category": "Digital Media Manager",
-                    "value": 8
-                },
-                {
-                    "category": "GainMaker Amplifiers",
-                    "value": 9
-                },
-                {
-                    "category": "GainMaker Nodes",
-                    "value": 10
-                },
-                {
-                    "category": "GainStar Amplifiers",
-                    "value": 11
-                },
-                {
-                    "category": "GainStar Nodes",
-                    "value": 12
-                },
-                {
-                    "category": "Legacy System Amplifiers and Line Extenders",
-                    "value": 13
-                },
-                {
-                    "category": "OptoStar II Optical Products",
-                    "value": 14
-                },
-                {
-                    "category": "Prisma II Products",
-                    "value": 15
-                },
-                {
-                    "category": "Remote PHY Shelves",
-                    "value": 16
-                },
-                {
-                    "category": "RF Gateway Series",
-                    "value": 17
-                },
-                {
-                    "category": "Smart PHY",
-                    "value": 18
-                },
-                {
-                    "category": "Splitters, Directional Couplers, Power Inserters",
-                    "value": 19
-                },
-                {
-                    "category": "Stretch (Wide) Taps",
-                    "value": 20
-                },
-                {
-                    "category": "Traditional Size Taps",
-                    "value": 21
-                },
-                {
-                    "category": "Transponders",
-                    "value": 22
-                }
-            ]
-        },
-        {
-            "category": "Webex",
-            "products": [
-                {
-                    "category": "UC Integration™ for Cisco Webex Connect",
-                    "value": 1
-                },
-                {
-                    "category": "Webex App (formerly Webex Teams)",
-                    "value": 2
-                },
-                {
-                    "category": "Webex Board Series",
-                    "value": 3
-                },
-                {
-                    "category": "Webex Calling",
-                    "value": 4
-                },
-                {
-                    "category": "Webex for Cisco Broadworks",
-                    "value": 5
-                },
-                {
-                    "category": "Webex Calling",
-                    "value": 6
-                },
-                {
-                    "category": "Webex Cloud Connected Audio",
-                    "value": 7
-                },
-                {
-                    "category": "Webex Cloud Connected UC",
-                    "value": 8
-                },
-                {
-                    "category": "Webex Contact Center",
-                    "value": 9
-                },
-                {
-                    "category": "Webex Contact Center Enterprise",
-                    "value": 10
-                },
-                {
-                    "category": "Webex Contact Center Enterprise for Government",
-                    "value": 11
-                },
-                {
-                    "category": "Webex Control Hub",
-                    "value": 12
-                },
-                {
-                    "category": "Webex Desk Series",
-                    "value": 13
-                },
-                {
-                    "category": "Webex Edge",
-                    "value": 14
-                },
-                {
-                    "category": "Webex Experience Management (formerly CloudCherry) - End-of-Sale",
-                    "value": 15
-                },
-                {
-                    "category": "Webex Hardware as a Service",
-                    "value": 16
-                },
-                {
-                    "category": "Webex Legislate",
-                    "value": 17
-                },
-                {
-                    "category": "Webex Meetings",
-                    "value": 18
-                },
-                {
-                    "category": "Webex Meetings Online",
-                    "value": 19
-                },
-                {
-                    "category": "Webex Messenger",
-                    "value": 20
-                },
-                {
-                    "category": "Webex Room Navigator",
-                    "value": 21
-                },
-                {
-                    "category": "Webex Room Phone",
-                    "value": 22
-                },
-                {
-                    "category": "Webex Room Series",
-                    "value": 23
-                },
-                {
-                    "category": "Webex Support",
-                    "value": 24
-                },
-                {
-                    "category": "Webex Share - End-of-Sale",
-                    "value": 25
-                },
-                {
-                    "category": "Webex Training",
-                    "value": 26
-                },
-                {
-                    "category": "Webex Webcasting",
-                    "value": 27
-                },
-                {
-                    "category": "Webex Webinars (formerly Webex Events)",
-                    "value": 28
-                },
-                {
-                    "category": "Webex Work",
-                    "value": 29
-                },
-                {
-                    "category": "Webex Workforce Optimization",
-                    "value": 30
-                }
-            ]
-        },
-        {
-            "category": "Wireless",
-            "products": [
-                {
-                    "category": "Access Policy Server",
-                    "value": 1
-                },
-                {
-                    "category": "Adaptive Wireless IPS Software",
-                    "value": 2
-                },
-                {
-                    "category": "Aironet Active Sensor",
-                    "value": 3
-                },
-                {
-                    "category": "Aironet Antennas and Accessories",
-                    "value": 4
-                },
-                {
-                    "category": "Aironet Wireless LAN Client Adapters",
-                    "value": 5
-                },
-                {
-                    "category": "AirProvision",
-                    "value": 6
-                },
-                {
-                    "category": "Application Detection and Control",
-                    "value": 7
-                },
-                {
-                    "category": "ASN Access Service Network Gateway",
-                    "value": 8
-                },
-                {
-                    "category": "Cisco Spaces",
-                    "value": 9
-                },
-                {
-                    "category": "Connected Mobile Experiences",
-                    "value": 10
-                },
-                {
-                    "category": "Connected Mobile Experiences (CMX) Cloud",
-                    "value": 11
-                },
-                {
-                    "category": "Content Filtering",
-                    "value": 12
-                },
-                {
-                    "category": "Context-Aware Software",
-                    "value": 13
-                },
-                {
-                    "category": "Converged Services Platform",
-                    "value": 14
-                },
-                {
-                    "category": "Embedded Wireless Controller on Catalyst Access Points",
-                    "value": 15
-                },
-                {
-                    "category": "Enhanced Charging Service",
-                    "value": 16
-                },
-                {
-                    "category": "Enterprise Mobility Services Platform",
-                    "value": 17
-                },
-                {
-                    "category": "ePDG Evolved Packet Data Gateway",
-                    "value": 18
-                },
-                {
-                    "category": "GGSN Gateway GPRS Support Node",
-                    "value": 19
-                },
-                {
-                    "category": "MME Mobility Management Entity",
-                    "value": 20
-                },
-                {
-                    "category": "Mobile Service Edge Gateway",
-                    "value": 21
-                },
-                {
-                    "category": "Mobility Express for Aironet Access Points",
-                    "value": 22
-                },
-                {
-                    "category": "Mobility Services Engine",
-                    "value": 23
-                },
-                {
-                    "category": "Mobility Services Engine Virtual Appliance",
-                    "value": 24
-                },
-                {
-                    "category": "Mobility Unified Reporting and Analytics",
-                    "value": 25
-                },
-                {
-                    "category": "Mobility Unified Reporting System",
-                    "value": 26
-                },
-                {
-                    "category": "NAT Network Address Translation",
-                    "value": 27
-                },
-                {
-                    "category": "PDSN/HA Packet Data Serving Node and Home Agent",
-                    "value": 28
-                },
-                {
-                    "category": "Peer-to-Peer",
-                    "value": 29
-                },
-                {
-                    "category": "PGW Packet Data Network Gateway",
-                    "value": 30
-                },
-                {
-                    "category": "Policy Suite for BNG",
-                    "value": 31
-                },
-                {
-                    "category": "Policy Suite for Mobile",
-                    "value": 32
-                },
-                {
-                    "category": "Policy Suite for Wi-Fi",
-                    "value": 33
-                },
-                {
-                    "category": "Prime Network Control System",
-                    "value": 34
-                },
-                {
-                    "category": "Prime Network Control System Series Appliances",
-                    "value": 35
-                },
-                {
-                    "category": "SGSN Serving GPRS Support Node",
-                    "value": 36
-                },
-                {
-                    "category": "SGW Serving Gateway",
-                    "value": 37
-                },
-                {
-                    "category": "Spectrum Expert",
-                    "value": 38
-                },
-                {
-                    "category": "Subscriber Firewall",
-                    "value": 39
-                },
-                {
-                    "category": "Ultra Automation Services",
-                    "value": 40
-                },
-                {
-                    "category": "Ultra Cloud Core - Access and Mobility Management Function",
-                    "value": 41
-                },
-                {
-                    "category": "Ultra Cloud Core - Policy Control Function",
-                    "value": 42
-                },
-                {
-                    "category": "Ultra Cloud Core - Serving Gateway Function",
-                    "value": 43
-                },
-                {
-                    "category": "Ultra Cloud Core - Session Management Function",
-                    "value": 44
-                },
-                {
-                    "category": "Ultra Cloud Core - Subscriber Microservices Infrastructure",
-                    "value": 45
-                },
-                {
-                    "category": "Ultra Cloud Core - User Plane Function",
-                    "value": 46
-                },
-                {
-                    "category": "Ultra Gateway Platform",
-                    "value": 47
-                },
-                {
-                    "category": "Ultra Gateway Platform with CUPS",
-                    "value": 48
-                },
-                {
-                    "category": "Ultra Packet Core",
-                    "value": 49
-                },
-                {
-                    "category": "Ultra Services Framework",
-                    "value": 50
-                },
-                {
-                    "category": "Ultra Services Proxy",
-                    "value": 51
-                },
-                {
-                    "category": "Ultra Traffic Optimization",
-                    "value": 52
-                },
-                {
-                    "category": "Ultra-Reliable Wireless Backhaul",
-                    "value": 53
-                },
-                {
-                    "category": "Virtual Wireless Controller",
-                    "value": 54
-                },
-                {
-                    "category": "Wireless Control System Navigator",
-                    "value": 55
-                },
-                {
-                    "category": "Wireless Controller Software for SRE",
-                    "value": 56
-                },
-                {
-                    "category": "Wireless LAN Controller Software",
-                    "value": 57
-                },
-                {
-                    "category": "Wireless Location Appliance",
-                    "value": 58
-                }
-            ]
-        }
+    "Accessories (Interfaces, Modules, Cards)": [
+        "Access Point Modules",
+        "Broadband Processing Engines",
+        "Connected Grid Modules",
+        "CWDM GBIC/SFP",
+        "Ethernet Switching Network Modules",
+        "GBICs",
+        "High Density Voice/Fax Network Modules",
+        "High-Speed WAN Interface Cards",
+        "Integrated Services Router (ISR) Modules",
+        "Interface Cards",
+        "IP Communications Voice/Fax Network Modules",
+        "Line cards",
+        "LTE Wireless WAN Interfaces",
+        "Network Modules",
+        "Nexus SmartNIC",
+        "Port Adapters",
+        "Route Processors and Route Switch Processors",
+        "Security Modules for Routers and Switches",
+        "Security Modules for Security Appliances",
+        "Services Modules",
+        "Services-Ready Engine (SRE) Modules",
+        "SFPs",
+        "Shared Port Adapters/SPA Interface Processors",
+        "Small Business Network Accessories",
+        "Storage Networking Modules",
+        "Transceiver Modules",
+        "Unified Computing System Adapters",
+        "Voice Modules and Interface Cards",
+        "WAN Interface Cards"
+    ],
+    "Cloud and Systems Management": [
+        "Access Registrar",
+        "Air-Gapped Collector",
+        "Application Centric Infrastructure Simulator",
+        "Application Policy Infrastructure Controller (APIC)",
+        "Application Policy Infrastructure Controller Enterprise Module (APIC-EM)",
+        "Application Services Engine",
+        "Automated Fault Management",
+        "Business Mobile App",
+        "Catalyst Center",
+        "Cisco Business Dashboard",
+        "Cisco Container Platform",
+        "Cisco DNA Traffic Telemetry Appliance",
+        "Cloud Network Automation Provisioner",
+        "Cloud Network Controller",
+        "Cloud Portal",
+        "CloudCenter",
+        "CloudCenter Suite",
+        "Collaboration Audit and Assessments",
+        "Common Services Platform Collector (CSPC)",
+        "Configuration Assistant (CCA)",
+        "Configuration Engine",
+        "Configuration Professional Express",
+        "Configuration Professional for Catalyst",
+        "Connected Grid Design Suite Substation Workbench",
+        "Crosswork Cloud",
+        "Crosswork Network Automation",
+        "Crosswork Network Services Orchestrator",
+        "Crosswork Workflow Manager",
+        "CX Cloud Agent",
+        "Dynamic Fabric Automation",
+        "Edge Fog Fabric",
+        "Elastic Services Controller",
+        "Enterprise Service Automation",
+        "Evolved Programmable Network Manager",
+        "Extensible Network Controller (XNC)",
+        "Fabric Manager",
+        "FindIT Network Management",
+        "Fog Director",
+        "Hosted Collaboration Mediation",
+        "Hybrid Solution for Kubernetes on AWS",
+        "Industrial Asset Vision",
+        "Industrial Network Director",
+        "Intelligent Automation for Cloud",
+        "Intersight",
+        "Intersight Workload Optimizer",
+        "IoT Field Network Director",
+        "IoT Operations Dashboard",
+        "IOx",
+        "Kinetic",
+        "Kinetic for Cities",
+        "Managed Services Accelerator",
+        "Manufacturing IoT Demo",
+        "Modeling Labs",
+        "Network Configuration and Change Management",
+        "Network Services Manager",
+        "Nexus Dashboard Data Broker",
+        "Nexus Dashboard Fabric Controller (Formerly DCNM)",
+        "Nexus Dashboard Orchestrator",
+        "Nexus Fabric Manager",
+        "NFV Infrastructure",
+        "Operational Insights Collector",
+        "Plug-in for OpenFlow",
+        "Prime Access Registrar",
+        "Prime Cable Provisioning",
+        "Prime Central",
+        "Prime for Evolved Programmable Networks",
+        "Prime for Mobility",
+        "Prime Home",
+        "Prime Infrastructure",
+        "Prime IP Express",
+        "Prime IP Express Jumpstart",
+        "Prime License Manager",
+        "Prime Network",
+        "Prime Network Analysis Module Software",
+        "Prime Network Registrar",
+        "Prime Network Registrar Jumpstart",
+        "Prime Network Services Controller",
+        "Prime Optical",
+        "Prime Performance Manager",
+        "Prime Provisioning",
+        "Prime Service Catalog",
+        "Prime Virtual Network Analysis Module (vNAM)",
+        "Process Orchestrator",
+        "Secure Access Control Server",
+        "Secure Equipment Access",
+        "Small Business FindIT Network Discovery Utility",
+        "Smart Call Home",
+        "Smart Net Total Care",
+        "Smart Software Manager",
+        "Terminal Services Gateways",
+        "ThousandEyes End User Monitoring",
+        "ThousandEyes Internet Insights",
+        "ThousandEyes Network and Application Synthetics",
+        "Virtual Network Management Center",
+        "Virtual Topology System",
+        "Virtualized Infrastructure Manager",
+        "Workplace Portal"
+    ],
+    "Collaboration Endpoints": [
+        "Board Series",
+        "Desk Series",
+        "Microphones",
+        "Multi-head Cables",
+        "Room Navigator",
+        "Room Phone",
+        "Room Series",
+        "SIP IP Phone Software",
+        "Small Business Voice Accessories",
+        "TC Console",
+        "TelePresence Administration Software",
+        "TelePresence ISDN Link",
+        "TelePresence MX Series",
+        "TelePresence Precision Cameras",
+        "TelePresence PrecisionHD Cameras",
+        "TelePresence Remote Control",
+        "TelePresence SX Series",
+        "TelePresence System EX Series",
+        "Touch",
+        "Webex Share",
+        "Wireless Phone"
+    ],
+    "Conferencing": [
+        "Collaboration Meeting Rooms (CMR)",
+        "Meeting App",
+        "Meeting Management",
+        "Meeting Server",
+        "TelePresence Content Server",
+        "TelePresence Management Suite (TMS)",
+        "TelePresence Management Suite Extensions",
+        "TelePresence MCU MSE Series",
+        "Webex Cloud Connected Audio",
+        "Webex Control Hub",
+        "Webex Edge",
+        "Webex Events",
+        "WebEx Meetings",
+        "Webex Meetings Online",
+        "Webex Meetings Server",
+        "Webex Support",
+        "Webex Training"
+    ],
+    "Connected Safety and Security": [
+        "IP Camera Applications and Utilities",
+        "Video Surveillance Manager",
+        "Video Surveillance Operations Manager Software",
+        "Video Surveillance PTZ IP Cameras",
+        "Virtualized Applications for UCS"
+    ],
+    "Contact Center ": [
+        "Computer Telephony Integration Option",
+        "Enterprise Chat and Email",
+        "Finesse",
+        "Outbound Option",
+        "Packaged Contact Center Enterprise",
+        "Remote Expert Mobile",
+        "SocialMiner",
+        "Unified Call Studio",
+        "Unified Contact Center Enterprise",
+        "Unified Contact Center Express",
+        "Unified Contact Center Management Portal",
+        "Unified Customer Voice Portal",
+        "Unified Intelligence Center",
+        "Unified Intelligent Contact Management Enterprise",
+        "Unified IP Interactive Voice Response (IVR)",
+        "Unified Workforce Optimization",
+        "Virtualized Voice Browser",
+        "Webex Contact Center",
+        "Webex Contact Center Enterprise",
+        "Webex Contact Center Enterprise for Government",
+        "Webex Experience Management (formerly CloudCherry)",
+        "Webex Workforce Optimization"
+    ],
+    "Data Center Analytics": [
+        "Cisco Network Assurance Engine - End-of-Sale",
+        "Cisco Network Insights for Data Center",
+        "Cisco Nexus Dashboard",
+        "Cisco Nexus Dashboard Insights"
+    ],
+    "Hyperconverged Infrastructure": [
+        "Compute Hyperconverged with Nutanix",
+        "HyperFlex HX Data Platform",
+        "HyperFlex HX Series"
+    ],
+    "Networking Software (IOS & NX-OS)": [
+        "IOS XE 16 (includes Denali, Everest, Fuji and Gibraltar releases)",
+        "IOS XE 17 (includes Amsterdam, Bengaluru, Cupertino and Dublin releases)",
+        "IOS XE 3E",
+        "IOS XE 3S",
+        "IOS XE 3SE",
+        "IOS XE 3SG",
+        "IOS XE Release 2",
+        "IOS XR",
+        "IOS XR Software (End-of-Sale)",
+        "IOS XRv Software",
+        "NX-OS Software"
+    ],
+    "Networking Technologies and Protocols": {
+        "Asynchronous Transfer Mode (ATM)": [
+            "ATM Signaling",
+            "ATM to Frame Relay Interworking",
+            "ATM Traffic Management",
+            "IP over ATM",
+            "LAN Emulation (LANE)",
+            "Permanent Virtual Circuits (PVC) and Switched Virtual Circuits (SVC)",
+            "VP (Virtual Path) Switching and Tunnels"
+        ],
+        "Availability": [
+            "High Availability"
+        ],
+        "Broadband Cable": [
+            "Cable Management and Services",
+            "Cable Modem Termination Systems (CMTS)",
+            "Cable Modems",
+            "Cable Security",
+            "Cable Video",
+            "Data-over-Cable Service Interface Specifications (DOCSIS)",
+            "Radio Frequency (RF) Hybrid Fiber-Coaxial (HFC)",
+            "Telco - Return"
+        ],
+        "Content Networking": [
+            "Certificates",
+            "Keepalives",
+            "Redundancy",
+            "TCP and UDP Stateful Protocols",
+            "TCP and UDP Static Port Protocols",
+            "Web Cache Communications Protocol (WCCP)"
+        ],
+        "Dial and Access": [
+            "Asynchronous Connections",
+            "Dial-on-Demand Routing (DDR)",
+            "ISDN, CAS",
+            "Virtual Private Dialup Network (VPDN)"
+        ],
+        "IBM Technologies": [
+            "IBM CIP Protocols",
+            "IBM Networking",
+            "IBM Presentation Services",
+            "IBM SNA Networking",
+            "Token Ring"
+        ],
+        "IP": [
+            "IP Addressing Services",
+            "IP Application Services",
+            "IP Multicast",
+            "IP Routed Protocols",
+            "IP Routing",
+            "IP Security Protocols",
+            "IP Switching",
+            "IP Tunneling",
+            "IP Version 6 (IPv6)"
+        ],
+        "LAN Switching": [
+            "EtherChannel",
+            "Ethernet",
+            "Fiber Distributed/Copper Distributed Data Interface (FDDI/CDDI)",
+            "LAN Quality of Service",
+            "LAN Security",
+            "Layer-Three Switching and Forwarding",
+            "Port Monitoring",
+            "Spanning Tree Protocol",
+            "Switch Redundancy and Management",
+            "Virtual LANs/VLAN Trunking Protocol (VLANs/VTP)"
+        ],
+        "Long Reach Ethernet (LRE) and Digital Subscriber Line (xDSL)": [
+            "LRE/VDSL (Long-Reach Ethernet/Very-high-data-rate DSL)",
+            "Service Selection Gateway (SSG)"
+        ],
+        "Multiprotocol Label Switching (MPLS)": [
+            "Multiprotocol Label Switching for VPNs (MPLS for VPNs)",
+            "Multiprotocol Label Switching over ATM (MPLS over ATM)"
+        ],
+        "Network Management": [
+            "Network Monitoring",
+            "Remote Access",
+            "System Availability"
+        ],
+        "Optical": [
+            "Dense Wavelength Division Multiplexing (DWDM)",
+            "Spatial Reuse Protocol/Dynamic Packet Transport (SRP/DPT)",
+            "Synchronous Digital Hierarchy (SDH)",
+            "Synchronous Optical NETwork (SONET)"
+        ],
+        "Quality of Service (QoS)": [
+            "Netflow",
+            "QoS Configuration and Monitoring",
+            "QoS Congestion Avoidance",
+            "QoS Congestion Management (queueing)",
+            "QoS Link Efficiency Mechanisms",
+            "QoS Packet Classification",
+            "QoS Packet Marking",
+            "QoS Policing",
+            "QoS Signaling",
+            "QoS Solutions",
+            "QoS Traffic Shaping"
+        ],
+        "Security and VPN": [
+            "Authentication Protocols",
+            "IDS/IPS - Detection & Signatures",
+            "IDS/IPS - Reaction & Response",
+            "IPSec Architecture and Implementation",
+            "IPSec Negotiation/IKE Protocols",
+            "Lawful Intercept",
+            "Lock & Key",
+            "Network Admission Control (NAC)",
+            "Public Key Infrastructure (PKI)",
+            "Secure Shell (SSH)",
+            "Secure Socket Layer (SSL)",
+            "WebVPN / SSL VPN"
+        ],
+        "Storage Networking": [
+            "Additional Storage Networking",
+            "Fiber Channel over IP (FCIP)",
+            "Management",
+            "SCSI (Small Computer Systems Interface)",
+            "Security",
+            "Small Computer Systems Interface over IP (iSCSI)"
+        ],
+        "Voice": [
+            "Application Communications",
+            "Call Routing / Dial Plans",
+            "Device Signaling",
+            "Fax / Modem over IP",
+            "Gateway Protocols",
+            "IP Telephony/Voice over IP (VoIP)",
+            "Telephony Signaling",
+            "Voice Application Development",
+            "Voice Quality"
+        ],
+        "WAN": [
+            "Data Compression",
+            "Frame Relay",
+            "Point-to-Point Protocol (PPP)",
+            "T1/E1 & T3/E3",
+            "TDM",
+            "X.25 Protocols"
+        ],
+        "Wireless / Mobility": [
+            "Wireless, Fixed",
+            "Wireless, LAN (WLAN)",
+            "Wireless, Mobile"
+        ]
+    },
+    "Optical Networking": [
+        "Automated Subsea Tuning",
+        "Carrier Packet Transport (CPT) System",
+        "DWDM Design Tool",
+        "Optical Network Controller",
+        "Optical Network Planner",
+        "Routed Optical Networking",
+        "TransportPlanner"
+    ],
+    "Routers": [
+        "Carrier Routing System",
+        "Catalyst Cellular Gateways",
+        "Catalyst Wireless Gateway",
+        "Cloud Native Broadband Network Gateway (BNG)",
+        "Cloud Native Broadband Router",
+        "Enterprise NFV Infrastructure Software",
+        "Integrated Services Virtual Router",
+        "IOS XR for Third Party Hardware",
+        "IOS XRd",
+        "IOS XRv Router",
+        "SD-WAN",
+        "SD-WAN Cloud OnRamp for Co-Location",
+        "Small Business RV Series Routers",
+        "vEdge Router",
+        "Virtual Wide Area Application Services (vWAAS)",
+        "WAN Automation Engine (WAE)",
+        "Wide Area Application Services (WAAS) Express",
+        "Wide Area Application Services (WAAS) Software",
+        "Wide Area Virtualization Engines",
+        "Wireless Gateway for LoRaWAN",
+        "XE SD-WAN Routers"
+    ],
+    "Security": [
+        "AMP for Networks",
+        "Attack Surface Management",
+        "Cisco Telemetry Broker",
+        "Cloud Application Security",
+        "Cloud Email Security",
+        "Cloudlock",
+        "Cyber Threat Defense",
+        "Cyber Vision",
+        "Defense Orchestrator",
+        "Duo",
+        "Dynamic Multipoint VPN (DMVPN)",
+        "Email Encryption",
+        "Endpoint Security Analytics Built on Splunk",
+        "FlexVPN",
+        "Group Encrypted Transport VPN",
+        "Identity Services Engine",
+        "IOS Easy VPN",
+        "IOS Firewall",
+        "IOS Intrusion Prevention System (IPS)",
+        "IOS Intrusion Prevention System Feature Software",
+        "IOS Intrusion Prevention System Signatures for Cisco Configuration Professional",
+        "IOS Network Address Translation (NAT)",
+        "IOS SSL VPN",
+        "ISE Passive Identity Connector",
+        "Multicloud Defense",
+        "NGIPS for Blue Coat X-Series",
+        "NGIPS Virtual Appliance",
+        "Registered Envelope Service",
+        "Router Security",
+        "Secure Access",
+        "Secure Access Control System",
+        "Secure Awareness Training",
+        "Secure Client (including AnyConnect)",
+        "Secure Cloud Analytics",
+        "Secure DDoS Protection",
+        "Secure Email and Web Manager",
+        "Secure Email and Web Manager Virtual",
+        "Secure Email Gateway",
+        "Secure Email Threat Defense",
+        "Secure Email Virtual Gateway",
+        "Secure Endpoint",
+        "Secure Endpoint Private Cloud",
+        "Secure Firewall ASA",
+        "Secure Firewall ASA Virtual",
+        "Secure Firewall ASDM",
+        "Secure Firewall Cloud Native",
+        "Secure Firewall Management Center",
+        "Secure Firewall Management Center Virtual",
+        "Secure Firewall Migration Tool",
+        "Secure Firewall Threat Defense",
+        "Secure Firewall Threat Defense Virtual",
+        "Secure Malware Analytics Appliances",
+        "Secure Malware Analytics Cloud (Threat Grid – Cloud)",
+        "Secure Network Analytics",
+        "Secure Network Analytics Data Store",
+        "Secure Network Analytics Flow Collector",
+        "Secure Network Analytics Flow Sensor",
+        "Secure Network Analytics Manager",
+        "Secure Network Analytics UDP Director",
+        "Secure Network Analytics Virtual Data Store",
+        "Secure Network Analytics Virtual Endpoint Concentrator",
+        "Secure Network Analytics Virtual Flow Collector",
+        "Secure Network Analytics Virtual Flow Sensor",
+        "Secure Network Analytics Virtual Manager",
+        "Secure Network Analytics Virtual UDP Director",
+        "Secure Sign-On",
+        "Secure Web Appliance",
+        "Secure Web Appliance Virtual",
+        "Secure Workload",
+        "SecureX",
+        "Security Analytics and Logging",
+        "Security Cloud",
+        "Security Connector",
+        "Security Manager",
+        "Security Packet Analyzer",
+        "Sourcefire AMP for FirePOWER Software License",
+        "Sourcefire AMP for Network Virtual Appliance",
+        "SSL Appliances",
+        "Umbrella",
+        "Virtual Security Packet Analyzer",
+        "Vulnerability Management",
+        "XDR"
+    ],
+    "Servers - Unified Computing (UCS)": [
+        "Integrated Management Controller",
+        "Integrated Management Controller (IMC) Supervisor",
+        "R Series Racks",
+        "RP Series Power Distribution Units",
+        "UCS - Hypervisors and Operating Systems",
+        "UCS B-Series Blade Server Software",
+        "UCS B-Series Blade Servers",
+        "UCS C-Series Rack Servers",
+        "UCS C-Series Rack-Mount Standalone Server Software",
+        "UCS C-Series Rack-Mount UCS-Managed Server Software",
+        "UCS Central Software",
+        "UCS Director",
+        "UCS E-Series Servers",
+        "UCS E-Series Software",
+        "UCS Express",
+        "UCS Infrastructure and UCS Manager Software",
+        "UCS M-Series Modular Servers",
+        "UCS Management - Partner Ecosystem",
+        "UCS Manager",
+        "UCS Mini",
+        "UCS Mini Software",
+        "UCS S-Series Storage Servers",
+        "UCS Virtual Interface Card",
+        "UCS X-Series Modular System",
+        "Unified Computing System",
+        "Workload Optimization Manager"
+    ],
+    "Storage Networking": [
+        "MDS Blade Switch Series",
+        "SAN Insights Discovery"
+    ],
+    "Switches": [
+        "Application Centric Infrastructure Virtual Edge",
+        "Application Centric Infrastructure Virtual Pod",
+        "Blade Switches for HP",
+        "Catalyst Digital Building Series Switches",
+        "Catalyst Micro Switches",
+        "Catalyst PON Series",
+        "Cloud Services Platforms",
+        "Cluster Management Suite (CMS) Software",
+        "Edge Series",
+        "Fabric Analysis and Correlation Toolkit",
+        "Redundant Power Systems",
+        "SFS Solution for Dell",
+        "SFS Solution for IBM BladeCenter-H",
+        "Switch Modules for IBM",
+        "Virtual Security Gateway"
+    ],
+    "TelePresence": [
+        "TelePresence Administration Software",
+        "TelePresence ISDN Gateway - End-of-Support",
+        "TelePresence ISDN Link - End-of-Sale",
+        "TelePresence Management Suite (TMS) ",
+        "TelePresence Management Suite Extensions  ",
+        "TelePresence MCU MSE 8510  - End-of-Support",
+        "TelePresence MX Series - End-of-Sale",
+        "TelePresence Precision 60 Camera",
+        "TelePresence Precision Cameras",
+        "TelePresence PrecisionHD Cameras",
+        "TelePresence Remote Control",
+        "TelePresence Serial Gateway Series - End-of-Support",
+        "TelePresence SpeakerTrack 60",
+        "TelePresence SX Series (Quick Set) - End-of-Sale",
+        "TelePresence System EX Series - End-of-Support",
+        "TelePresence Touch",
+        "TelePresence Video Communication Server (VCS) - End-of-Sale"
+    ],
+    "Unified Communications": [
+        "Applications for Cisco Unified Application Environment",
+        "BroadCloud",
+        "BroadCloud PaaS",
+        "BroadWorks",
+        "Collaboration Flex Plan",
+        "Collaboration Systems Release",
+        "Emergency Responder",
+        "Expressway Series",
+        "Gatekeeper/Multimedia Conference Manager",
+        "Hosted Collaboration Solution (HCS)",
+        "Hosted Collaboration Solution for Contact Center",
+        "Hosted Unified Communications Services",
+        "IOS Gateways with Session Initiation Protocol (SIP)",
+        "Jabber",
+        "Jabber Extensible Communications Platform (XCP)",
+        "Jabber for Android",
+        "Jabber for iPad",
+        "Jabber for iPhone",
+        "Jabber for iPhone and iPad",
+        "Jabber for Mac",
+        "Jabber for Windows",
+        "Jabber Guest",
+        "Jabber Softphone for VDI",
+        "Jabber Software Development Kit",
+        "Network Route Director",
+        "Office Manager",
+        "Paging Server",
+        "Prime Collaboration",
+        "Small Business Voice Gateways and ATAs",
+        "TDM Gateways",
+        "TelePresence ISDN Gateway",
+        "TelePresence Serial Gateway Series",
+        "TelePresence Video Communication Server (VCS)",
+        "UC Integration(TM) for Cisco WebEx Connect",
+        "UC Integration(TM) for Microsoft Lync",
+        "UC-One",
+        "Unified Application Designer",
+        "Unified Attendant Consoles",
+        "Unified Border Element",
+        "Unified CallConnectors",
+        "Unified Communications Licensing",
+        "Unified Communications Manager (CallManager)",
+        "Unified Communications Manager Assistant",
+        "Unified Communications Manager Express",
+        "Unified Communications Manager IM & Presence Service",
+        "Unified Communications Manager Session Management Edition",
+        "Unified Communications Widgets",
+        "Unified Communications with Microsoft",
+        "Unified Mobility",
+        "Unified Quick Connect",
+        "Unified SIP Proxy",
+        "Unified Survivable Remote Site Telephony",
+        "Unity Connection",
+        "Unity Express",
+        "VG Series Gateways",
+        "WebAttendant",
+        "Webex App",
+        "Webex Calling",
+        "Webex Cloud-Connected UC",
+        "Webex for Cisco Broadworks",
+        "WebEx Messenger"
+    ],
+    "Video": [
+        "cBR Series Converged Broadband Routers",
+        "Cisco Vision",
+        "Coaxial Media Converters",
+        "Compact Amplifiers",
+        "Compact Nodes",
+        "DAVIC QPSK Devices",
+        "Digital Media Encoders",
+        "Digital Media Manager",
+        "GainMaker Amplifiers",
+        "GainMaker Nodes",
+        "GainStar Amplifiers",
+        "GainStar Nodes",
+        "Legacy System Amplifiers and Line Extenders",
+        "OptoStar II Optical Products",
+        "Prisma II Products",
+        "Remote PHY Shelves",
+        "RF Gateway Series",
+        "Smart PHY",
+        "Splitters, Directional Couplers, Power Inserters",
+        "Stretch (Wide) Taps",
+        "Traditional Size Taps",
+        "Transponders"
+    ],
+    "Webex": [
+        "UC Integration™ for Cisco Webex Connect",
+        "Webex App (formerly Webex Teams)",
+        "Webex Board Series",
+        "Webex Calling",
+        "Webex for Cisco Broadworks",
+        "Webex Calling",
+        "Webex Cloud Connected Audio",
+        "Webex Cloud Connected UC",
+        "Webex Contact Center",
+        "Webex Contact Center Enterprise",
+        "Webex Contact Center Enterprise for Government",
+        "Webex Control Hub",
+        "Webex Desk Series",
+        "Webex Edge",
+        "Webex Experience Management (formerly CloudCherry) - End-of-Sale",
+        "Webex Hardware as a Service",
+        "Webex Legislate",
+        "Webex Meetings",
+        "Webex Meetings Online",
+        "Webex Messenger",
+        "Webex Room Navigator",
+        "Webex Room Phone",
+        "Webex Room Series",
+        "Webex Support",
+        "Webex Share - End-of-Sale",
+        "Webex Training",
+        "Webex Webcasting",
+        "Webex Webinars (formerly Webex Events)",
+        "Webex Work",
+        "Webex Workforce Optimization"
+    ],
+    "Wireless": [
+        "Access Policy Server",
+        "Adaptive Wireless IPS Software",
+        "Aironet Active Sensor",
+        "Aironet Antennas and Accessories",
+        "Aironet Wireless LAN Client Adapters",
+        "AirProvision",
+        "Application Detection and Control",
+        "ASN Access Service Network Gateway",
+        "Cisco Spaces",
+        "Connected Mobile Experiences",
+        "Connected Mobile Experiences (CMX) Cloud",
+        "Content Filtering",
+        "Context-Aware Software",
+        "Converged Services Platform",
+        "Embedded Wireless Controller on Catalyst Access Points",
+        "Enhanced Charging Service",
+        "Enterprise Mobility Services Platform",
+        "ePDG Evolved Packet Data Gateway",
+        "GGSN Gateway GPRS Support Node",
+        "MME Mobility Management Entity",
+        "Mobile Service Edge Gateway",
+        "Mobility Express for Aironet Access Points",
+        "Mobility Services Engine",
+        "Mobility Services Engine Virtual Appliance",
+        "Mobility Unified Reporting and Analytics",
+        "Mobility Unified Reporting System",
+        "NAT Network Address Translation",
+        "PDSN/HA Packet Data Serving Node and Home Agent",
+        "Peer-to-Peer",
+        "PGW Packet Data Network Gateway",
+        "Policy Suite for BNG",
+        "Policy Suite for Mobile",
+        "Policy Suite for Wi-Fi",
+        "Prime Network Control System",
+        "Prime Network Control System Series Appliances",
+        "SGSN Serving GPRS Support Node",
+        "SGW Serving Gateway",
+        "Spectrum Expert",
+        "Subscriber Firewall",
+        "Ultra Automation Services",
+        "Ultra Cloud Core - Access and Mobility Management Function",
+        "Ultra Cloud Core - Policy Control Function",
+        "Ultra Cloud Core - Serving Gateway Function",
+        "Ultra Cloud Core - Session Management Function",
+        "Ultra Cloud Core - Subscriber Microservices Infrastructure",
+        "Ultra Cloud Core - User Plane Function",
+        "Ultra Gateway Platform",
+        "Ultra Gateway Platform with CUPS",
+        "Ultra Packet Core",
+        "Ultra Services Framework",
+        "Ultra Services Proxy",
+        "Ultra Traffic Optimization",
+        "Ultra-Reliable Wireless Backhaul",
+        "Virtual Wireless Controller",
+        "Wireless Control System Navigator",
+        "Wireless Controller Software for SRE",
+        "Wireless LAN Controller Software",
+        "Wireless Location Appliance"
     ]
 }
