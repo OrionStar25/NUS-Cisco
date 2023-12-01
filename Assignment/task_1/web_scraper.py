@@ -1,7 +1,9 @@
 import requests
+import sys
+sys.path.append('../')
 
 from bs4 import BeautifulSoup 
-from utils import *
+from utils.utils import *
 
 
 def parse_categories(url):

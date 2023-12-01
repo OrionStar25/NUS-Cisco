@@ -63,3 +63,25 @@ def create_edge_list(data):
                 edges.append(e)
 
     return edges
+
+
+def get_products(data):
+    products = []
+
+    for prods in data.values():
+        if type(prods) == list:
+            for prod in prods:
+                products.append(prod)
+        else:
+            for sub_prods in prods.values():
+                for sub_prod in sub_prods:
+                    products.append(sub_prod)
+
+    return products
+
+
+def write_to_file(filename, data):
+    with open(filename, 'w') as f:
+        for row in data:
+            f.write(f'{row}\n')
+

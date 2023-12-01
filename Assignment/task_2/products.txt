@@ -1,0 +1,658 @@
+Access Point Modules
+Broadband Processing Engines
+Connected Grid Modules
+CWDM GBIC/SFP
+Ethernet Switching Network Modules
+GBICs
+High Density Voice/Fax Network Modules
+High-Speed WAN Interface Cards
+Integrated Services Router (ISR) Modules
+Interface Cards
+IP Communications Voice/Fax Network Modules
+Line cards
+LTE Wireless WAN Interfaces
+Network Modules
+Nexus SmartNIC
+Port Adapters
+Route Processors and Route Switch Processors
+Security Modules for Routers and Switches
+Security Modules for Security Appliances
+Services Modules
+Services-Ready Engine (SRE) Modules
+SFPs
+Shared Port Adapters/SPA Interface Processors
+Small Business Network Accessories
+Storage Networking Modules
+Transceiver Modules
+Unified Computing System Adapters
+Voice Modules and Interface Cards
+WAN Interface Cards
+Access Registrar
+Air-Gapped Collector
+Application Centric Infrastructure Simulator
+Application Policy Infrastructure Controller (APIC)
+Application Policy Infrastructure Controller Enterprise Module (APIC-EM)
+Application Services Engine
+Automated Fault Management
+Business Mobile App
+Catalyst Center
+Cisco Business Dashboard
+Cisco Container Platform
+Cisco DNA Traffic Telemetry Appliance
+Cloud Network Automation Provisioner
+Cloud Network Controller
+Cloud Portal
+CloudCenter
+CloudCenter Suite
+Collaboration Audit and Assessments
+Common Services Platform Collector (CSPC)
+Configuration Assistant (CCA)
+Configuration Engine
+Configuration Professional Express
+Configuration Professional for Catalyst
+Connected Grid Design Suite Substation Workbench
+Crosswork Cloud
+Crosswork Network Automation
+Crosswork Network Services Orchestrator
+Crosswork Workflow Manager
+CX Cloud Agent
+Dynamic Fabric Automation
+Edge Fog Fabric
+Elastic Services Controller
+Enterprise Service Automation
+Evolved Programmable Network Manager
+Extensible Network Controller (XNC)
+Fabric Manager
+FindIT Network Management
+Fog Director
+Hosted Collaboration Mediation
+Hybrid Solution for Kubernetes on AWS
+Industrial Asset Vision
+Industrial Network Director
+Intelligent Automation for Cloud
+Intersight
+Intersight Workload Optimizer
+IoT Field Network Director
+IoT Operations Dashboard
+IOx
+Kinetic
+Kinetic for Cities
+Managed Services Accelerator
+Manufacturing IoT Demo
+Modeling Labs
+Network Configuration and Change Management
+Network Services Manager
+Nexus Dashboard Data Broker
+Nexus Dashboard Fabric Controller (Formerly DCNM)
+Nexus Dashboard Orchestrator
+Nexus Fabric Manager
+NFV Infrastructure
+Operational Insights Collector
+Plug-in for OpenFlow
+Prime Access Registrar
+Prime Cable Provisioning
+Prime Central
+Prime for Evolved Programmable Networks
+Prime for Mobility
+Prime Home
+Prime Infrastructure
+Prime IP Express
+Prime IP Express Jumpstart
+Prime License Manager
+Prime Network
+Prime Network Analysis Module Software
+Prime Network Registrar
+Prime Network Registrar Jumpstart
+Prime Network Services Controller
+Prime Optical
+Prime Performance Manager
+Prime Provisioning
+Prime Service Catalog
+Prime Virtual Network Analysis Module (vNAM)
+Process Orchestrator
+Secure Access Control Server
+Secure Equipment Access
+Small Business FindIT Network Discovery Utility
+Smart Call Home
+Smart Net Total Care
+Smart Software Manager
+Terminal Services Gateways
+ThousandEyes End User Monitoring
+ThousandEyes Internet Insights
+ThousandEyes Network and Application Synthetics
+Virtual Network Management Center
+Virtual Topology System
+Virtualized Infrastructure Manager
+Workplace Portal
+Board Series
+Desk Series
+Microphones
+Multi-head Cables
+Room Navigator
+Room Phone
+Room Series
+SIP IP Phone Software
+Small Business Voice Accessories
+TC Console
+TelePresence Administration Software
+TelePresence ISDN Link
+TelePresence MX Series
+TelePresence Precision Cameras
+TelePresence PrecisionHD Cameras
+TelePresence Remote Control
+TelePresence SX Series
+TelePresence System EX Series
+Touch
+Webex Share
+Wireless Phone
+Collaboration Meeting Rooms (CMR)
+Meeting App
+Meeting Management
+Meeting Server
+TelePresence Content Server
+TelePresence Management Suite (TMS)
+TelePresence Management Suite Extensions
+TelePresence MCU MSE Series
+Webex Cloud Connected Audio
+Webex Control Hub
+Webex Edge
+Webex Events
+WebEx Meetings
+Webex Meetings Online
+Webex Meetings Server
+Webex Support
+Webex Training
+IP Camera Applications and Utilities
+Video Surveillance Manager
+Video Surveillance Operations Manager Software
+Video Surveillance PTZ IP Cameras
+Virtualized Applications for UCS
+Computer Telephony Integration Option
+Enterprise Chat and Email
+Finesse
+Outbound Option
+Packaged Contact Center Enterprise
+Remote Expert Mobile
+SocialMiner
+Unified Call Studio
+Unified Contact Center Enterprise
+Unified Contact Center Express
+Unified Contact Center Management Portal
+Unified Customer Voice Portal
+Unified Intelligence Center
+Unified Intelligent Contact Management Enterprise
+Unified IP Interactive Voice Response (IVR)
+Unified Workforce Optimization
+Virtualized Voice Browser
+Webex Contact Center
+Webex Contact Center Enterprise
+Webex Contact Center Enterprise for Government
+Webex Experience Management (formerly CloudCherry)
+Webex Workforce Optimization
+Cisco Network Assurance Engine - End-of-Sale
+Cisco Network Insights for Data Center
+Cisco Nexus Dashboard
+Cisco Nexus Dashboard Insights
+Compute Hyperconverged with Nutanix
+HyperFlex HX Data Platform
+HyperFlex HX Series
+IOS XE 16 (includes Denali, Everest, Fuji and Gibraltar releases)
+IOS XE 17 (includes Amsterdam, Bengaluru, Cupertino and Dublin releases)
+IOS XE 3E
+IOS XE 3S
+IOS XE 3SE
+IOS XE 3SG
+IOS XE Release 2
+IOS XR
+IOS XR Software (End-of-Sale)
+IOS XRv Software
+NX-OS Software
+ATM Signaling
+ATM to Frame Relay Interworking
+ATM Traffic Management
+IP over ATM
+LAN Emulation (LANE)
+Permanent Virtual Circuits (PVC) and Switched Virtual Circuits (SVC)
+VP (Virtual Path) Switching and Tunnels
+High Availability
+Cable Management and Services
+Cable Modem Termination Systems (CMTS)
+Cable Modems
+Cable Security
+Cable Video
+Data-over-Cable Service Interface Specifications (DOCSIS)
+Radio Frequency (RF) Hybrid Fiber-Coaxial (HFC)
+Telco - Return
+Certificates
+Keepalives
+Redundancy
+TCP and UDP Stateful Protocols
+TCP and UDP Static Port Protocols
+Web Cache Communications Protocol (WCCP)
+Asynchronous Connections
+Dial-on-Demand Routing (DDR)
+ISDN, CAS
+Virtual Private Dialup Network (VPDN)
+IBM CIP Protocols
+IBM Networking
+IBM Presentation Services
+IBM SNA Networking
+Token Ring
+IP Addressing Services
+IP Application Services
+IP Multicast
+IP Routed Protocols
+IP Routing
+IP Security Protocols
+IP Switching
+IP Tunneling
+IP Version 6 (IPv6)
+EtherChannel
+Ethernet
+Fiber Distributed/Copper Distributed Data Interface (FDDI/CDDI)
+LAN Quality of Service
+LAN Security
+Layer-Three Switching and Forwarding
+Port Monitoring
+Spanning Tree Protocol
+Switch Redundancy and Management
+Virtual LANs/VLAN Trunking Protocol (VLANs/VTP)
+LRE/VDSL (Long-Reach Ethernet/Very-high-data-rate DSL)
+Service Selection Gateway (SSG)
+Multiprotocol Label Switching for VPNs (MPLS for VPNs)
+Multiprotocol Label Switching over ATM (MPLS over ATM)
+Network Monitoring
+Remote Access
+System Availability
+Dense Wavelength Division Multiplexing (DWDM)
+Spatial Reuse Protocol/Dynamic Packet Transport (SRP/DPT)
+Synchronous Digital Hierarchy (SDH)
+Synchronous Optical NETwork (SONET)
+Netflow
+QoS Configuration and Monitoring
+QoS Congestion Avoidance
+QoS Congestion Management (queueing)
+QoS Link Efficiency Mechanisms
+QoS Packet Classification
+QoS Packet Marking
+QoS Policing
+QoS Signaling
+QoS Solutions
+QoS Traffic Shaping
+Authentication Protocols
+IDS/IPS - Detection & Signatures
+IDS/IPS - Reaction & Response
+IPSec Architecture and Implementation
+IPSec Negotiation/IKE Protocols
+Lawful Intercept
+Lock & Key
+Network Admission Control (NAC)
+Public Key Infrastructure (PKI)
+Secure Shell (SSH)
+Secure Socket Layer (SSL)
+WebVPN / SSL VPN
+Additional Storage Networking
+Fiber Channel over IP (FCIP)
+Management
+SCSI (Small Computer Systems Interface)
+Security
+Small Computer Systems Interface over IP (iSCSI)
+Application Communications
+Call Routing / Dial Plans
+Device Signaling
+Fax / Modem over IP
+Gateway Protocols
+IP Telephony/Voice over IP (VoIP)
+Telephony Signaling
+Voice Application Development
+Voice Quality
+Data Compression
+Frame Relay
+Point-to-Point Protocol (PPP)
+T1/E1 & T3/E3
+TDM
+X.25 Protocols
+Wireless, Fixed
+Wireless, LAN (WLAN)
+Wireless, Mobile
+Automated Subsea Tuning
+Carrier Packet Transport (CPT) System
+DWDM Design Tool
+Optical Network Controller
+Optical Network Planner
+Routed Optical Networking
+TransportPlanner
+Carrier Routing System
+Catalyst Cellular Gateways
+Catalyst Wireless Gateway
+Cloud Native Broadband Network Gateway (BNG)
+Cloud Native Broadband Router
+Enterprise NFV Infrastructure Software
+Integrated Services Virtual Router
+IOS XR for Third Party Hardware
+IOS XRd
+IOS XRv Router
+SD-WAN
+SD-WAN Cloud OnRamp for Co-Location
+Small Business RV Series Routers
+vEdge Router
+Virtual Wide Area Application Services (vWAAS)
+WAN Automation Engine (WAE)
+Wide Area Application Services (WAAS) Express
+Wide Area Application Services (WAAS) Software
+Wide Area Virtualization Engines
+Wireless Gateway for LoRaWAN
+XE SD-WAN Routers
+AMP for Networks
+Attack Surface Management
+Cisco Telemetry Broker
+Cloud Application Security
+Cloud Email Security
+Cloudlock
+Cyber Threat Defense
+Cyber Vision
+Defense Orchestrator
+Duo
+Dynamic Multipoint VPN (DMVPN)
+Email Encryption
+Endpoint Security Analytics Built on Splunk
+FlexVPN
+Group Encrypted Transport VPN
+Identity Services Engine
+IOS Easy VPN
+IOS Firewall
+IOS Intrusion Prevention System (IPS)
+IOS Intrusion Prevention System Feature Software
+IOS Intrusion Prevention System Signatures for Cisco Configuration Professional
+IOS Network Address Translation (NAT)
+IOS SSL VPN
+ISE Passive Identity Connector
+Multicloud Defense
+NGIPS for Blue Coat X-Series
+NGIPS Virtual Appliance
+Registered Envelope Service
+Router Security
+Secure Access
+Secure Access Control System
+Secure Awareness Training
+Secure Client (including AnyConnect)
+Secure Cloud Analytics
+Secure DDoS Protection
+Secure Email and Web Manager
+Secure Email and Web Manager Virtual
+Secure Email Gateway
+Secure Email Threat Defense
+Secure Email Virtual Gateway
+Secure Endpoint
+Secure Endpoint Private Cloud
+Secure Firewall ASA
+Secure Firewall ASA Virtual
+Secure Firewall ASDM
+Secure Firewall Cloud Native
+Secure Firewall Management Center
+Secure Firewall Management Center Virtual
+Secure Firewall Migration Tool
+Secure Firewall Threat Defense
+Secure Firewall Threat Defense Virtual
+Secure Malware Analytics Appliances
+Secure Malware Analytics Cloud (Threat Grid – Cloud)
+Secure Network Analytics
+Secure Network Analytics Data Store
+Secure Network Analytics Flow Collector
+Secure Network Analytics Flow Sensor
+Secure Network Analytics Manager
+Secure Network Analytics UDP Director
+Secure Network Analytics Virtual Data Store
+Secure Network Analytics Virtual Endpoint Concentrator
+Secure Network Analytics Virtual Flow Collector
+Secure Network Analytics Virtual Flow Sensor
+Secure Network Analytics Virtual Manager
+Secure Network Analytics Virtual UDP Director
+Secure Sign-On
+Secure Web Appliance
+Secure Web Appliance Virtual
+Secure Workload
+SecureX
+Security Analytics and Logging
+Security Cloud
+Security Connector
+Security Manager
+Security Packet Analyzer
+Sourcefire AMP for FirePOWER Software License
+Sourcefire AMP for Network Virtual Appliance
+SSL Appliances
+Umbrella
+Virtual Security Packet Analyzer
+Vulnerability Management
+XDR
+Integrated Management Controller
+Integrated Management Controller (IMC) Supervisor
+R Series Racks
+RP Series Power Distribution Units
+UCS - Hypervisors and Operating Systems
+UCS B-Series Blade Server Software
+UCS B-Series Blade Servers
+UCS C-Series Rack Servers
+UCS C-Series Rack-Mount Standalone Server Software
+UCS C-Series Rack-Mount UCS-Managed Server Software
+UCS Central Software
+UCS Director
+UCS E-Series Servers
+UCS E-Series Software
+UCS Express
+UCS Infrastructure and UCS Manager Software
+UCS M-Series Modular Servers
+UCS Management - Partner Ecosystem
+UCS Manager
+UCS Mini
+UCS Mini Software
+UCS S-Series Storage Servers
+UCS Virtual Interface Card
+UCS X-Series Modular System
+Unified Computing System
+Workload Optimization Manager
+MDS Blade Switch Series
+SAN Insights Discovery
+Application Centric Infrastructure Virtual Edge
+Application Centric Infrastructure Virtual Pod
+Blade Switches for HP
+Catalyst Digital Building Series Switches
+Catalyst Micro Switches
+Catalyst PON Series
+Cloud Services Platforms
+Cluster Management Suite (CMS) Software
+Edge Series
+Fabric Analysis and Correlation Toolkit
+Redundant Power Systems
+SFS Solution for Dell
+SFS Solution for IBM BladeCenter-H
+Switch Modules for IBM
+Virtual Security Gateway
+TelePresence Administration Software
+TelePresence ISDN Gateway - End-of-Support
+TelePresence ISDN Link - End-of-Sale
+TelePresence Management Suite (TMS) 
+TelePresence Management Suite Extensions  
+TelePresence MCU MSE 8510  - End-of-Support
+TelePresence MX Series - End-of-Sale
+TelePresence Precision 60 Camera
+TelePresence Precision Cameras
+TelePresence PrecisionHD Cameras
+TelePresence Remote Control
+TelePresence Serial Gateway Series - End-of-Support
+TelePresence SpeakerTrack 60
+TelePresence SX Series (Quick Set) - End-of-Sale
+TelePresence System EX Series - End-of-Support
+TelePresence Touch
+TelePresence Video Communication Server (VCS) - End-of-Sale
+Applications for Cisco Unified Application Environment
+BroadCloud
+BroadCloud PaaS
+BroadWorks
+Collaboration Flex Plan
+Collaboration Systems Release
+Emergency Responder
+Expressway Series
+Gatekeeper/Multimedia Conference Manager
+Hosted Collaboration Solution (HCS)
+Hosted Collaboration Solution for Contact Center
+Hosted Unified Communications Services
+IOS Gateways with Session Initiation Protocol (SIP)
+Jabber
+Jabber Extensible Communications Platform (XCP)
+Jabber for Android
+Jabber for iPad
+Jabber for iPhone
+Jabber for iPhone and iPad
+Jabber for Mac
+Jabber for Windows
+Jabber Guest
+Jabber Softphone for VDI
+Jabber Software Development Kit
+Network Route Director
+Office Manager
+Paging Server
+Prime Collaboration
+Small Business Voice Gateways and ATAs
+TDM Gateways
+TelePresence ISDN Gateway
+TelePresence Serial Gateway Series
+TelePresence Video Communication Server (VCS)
+UC Integration(TM) for Cisco WebEx Connect
+UC Integration(TM) for Microsoft Lync
+UC-One
+Unified Application Designer
+Unified Attendant Consoles
+Unified Border Element
+Unified CallConnectors
+Unified Communications Licensing
+Unified Communications Manager (CallManager)
+Unified Communications Manager Assistant
+Unified Communications Manager Express
+Unified Communications Manager IM & Presence Service
+Unified Communications Manager Session Management Edition
+Unified Communications Widgets
+Unified Communications with Microsoft
+Unified Mobility
+Unified Quick Connect
+Unified SIP Proxy
+Unified Survivable Remote Site Telephony
+Unity Connection
+Unity Express
+VG Series Gateways
+WebAttendant
+Webex App
+Webex Calling
+Webex Cloud-Connected UC
+Webex for Cisco Broadworks
+WebEx Messenger
+cBR Series Converged Broadband Routers
+Cisco Vision
+Coaxial Media Converters
+Compact Amplifiers
+Compact Nodes
+DAVIC QPSK Devices
+Digital Media Encoders
+Digital Media Manager
+GainMaker Amplifiers
+GainMaker Nodes
+GainStar Amplifiers
+GainStar Nodes
+Legacy System Amplifiers and Line Extenders
+OptoStar II Optical Products
+Prisma II Products
+Remote PHY Shelves
+RF Gateway Series
+Smart PHY
+Splitters, Directional Couplers, Power Inserters
+Stretch (Wide) Taps
+Traditional Size Taps
+Transponders
+UC Integration™ for Cisco Webex Connect
+Webex App (formerly Webex Teams)
+Webex Board Series
+Webex Calling
+Webex for Cisco Broadworks
+Webex Calling
+Webex Cloud Connected Audio
+Webex Cloud Connected UC
+Webex Contact Center
+Webex Contact Center Enterprise
+Webex Contact Center Enterprise for Government
+Webex Control Hub
+Webex Desk Series
+Webex Edge
+Webex Experience Management (formerly CloudCherry) - End-of-Sale
+Webex Hardware as a Service
+Webex Legislate
+Webex Meetings
+Webex Meetings Online
+Webex Messenger
+Webex Room Navigator
+Webex Room Phone
+Webex Room Series
+Webex Support
+Webex Share - End-of-Sale
+Webex Training
+Webex Webcasting
+Webex Webinars (formerly Webex Events)
+Webex Work
+Webex Workforce Optimization
+Access Policy Server
+Adaptive Wireless IPS Software
+Aironet Active Sensor
+Aironet Antennas and Accessories
+Aironet Wireless LAN Client Adapters
+AirProvision
+Application Detection and Control
+ASN Access Service Network Gateway
+Cisco Spaces
+Connected Mobile Experiences
+Connected Mobile Experiences (CMX) Cloud
+Content Filtering
+Context-Aware Software
+Converged Services Platform
+Embedded Wireless Controller on Catalyst Access Points
+Enhanced Charging Service
+Enterprise Mobility Services Platform
+ePDG Evolved Packet Data Gateway
+GGSN Gateway GPRS Support Node
+MME Mobility Management Entity
+Mobile Service Edge Gateway
+Mobility Express for Aironet Access Points
+Mobility Services Engine
+Mobility Services Engine Virtual Appliance
+Mobility Unified Reporting and Analytics
+Mobility Unified Reporting System
+NAT Network Address Translation
+PDSN/HA Packet Data Serving Node and Home Agent
+Peer-to-Peer
+PGW Packet Data Network Gateway
+Policy Suite for BNG
+Policy Suite for Mobile
+Policy Suite for Wi-Fi
+Prime Network Control System
+Prime Network Control System Series Appliances
+SGSN Serving GPRS Support Node
+SGW Serving Gateway
+Spectrum Expert
+Subscriber Firewall
+Ultra Automation Services
+Ultra Cloud Core - Access and Mobility Management Function
+Ultra Cloud Core - Policy Control Function
+Ultra Cloud Core - Serving Gateway Function
+Ultra Cloud Core - Session Management Function
+Ultra Cloud Core - Subscriber Microservices Infrastructure
+Ultra Cloud Core - User Plane Function
+Ultra Gateway Platform
+Ultra Gateway Platform with CUPS
+Ultra Packet Core
+Ultra Services Framework
+Ultra Services Proxy
+Ultra Traffic Optimization
+Ultra-Reliable Wireless Backhaul
+Virtual Wireless Controller
+Wireless Control System Navigator
+Wireless Controller Software for SRE
+Wireless LAN Controller Software
+Wireless Location Appliance

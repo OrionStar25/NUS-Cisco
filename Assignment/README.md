@@ -7,7 +7,11 @@
 $ conda install -c conda-forge pygraphviz
 ```
 
+<add functionality for 0-9 products too>
+
 ## Task 2
+
+process of finding curl
 
 ## Task 3
 
