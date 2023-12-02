@@ -8,11 +8,11 @@ $ conda activate myenv
 $ conda env list # Verfiy if installation is correct
 ```
 
-2. Install `pip` packages:
+<!-- 2. Install `pip` packages:
 
 ```bash
 $ pip install -r requirements.txt
-```
+``` -->
 
 
 # Task 1
@@ -74,6 +74,12 @@ Alternatively, you can open `graph.html` using VSCode's live server extension.
 - Right click on graph.html
 - Open with Live Server
 ```
+
+Below are a few samples of the interactive visualization:
+
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
 
 
 # Task 2
@@ -138,13 +144,24 @@ After amassing 1000 documents per product, construct an index on your own, there
 
 - `create_index.py`: Code to create a FAISS index of all the documents.
 
-- `query_search.ipynb`: Notebook to perform query search using the index and retrieve results.
+- `faiss_index`: Directory for the created FAISS index.
 
-- `faiss_index.pkl`: Pickle file of the created index.
+- `query_search_DEMO.ipynb`: Shows a demo of searching relevant documents using the generated index for multiple queries and different values of K.
+
+- `TRY_HERE_query_search.ipynb`: A playground for you to search the index for any arbitrary query and `k`` value.
 
 ### Create index
 
-**Note:** This step is extremely computation and resources heavy. 
+**Note: This step is extremely computation and resources heavy.**
+This required heavy usage of GPU due to the large size of data.
+
+1. I donot own a GPU and computation on CPU took more than ~24 hours. Hence, I discarded this approach.
+
+2. I tried the free version of Colab (GPU T4), but the dataset is ~3GB and certain intermediate steps took too long. Thus, the notebook timed out. Loading the documents for preprocessing, Creating index are time/computation heavy.
+
+3. Therefore, I used the free version of colab and created an index with a subset of the data ~50,000 documents. (Total time ~= 3 hours)
+
+With proper resources, we can augment the index with the entire dataset.
 
 ```python
 $ python create_index.py
@@ -152,9 +169,14 @@ $ python create_index.py
 
 ### Perform Query Search
 
-1. Run `query_search.ipynb`.
+1. Run `TRY_HERE_query_search.ipynb`.
 2. Change the value for `query`, `K` as required.
 3. Documents are retrieved in descending order of relevancy, i.e., more relevant documents have a lower L2 distance score and thus, recommended first.
+
+
+# GitHub
+
+The project is managed using GitHub and can be tracked at: https://github.com/OrionStar25/NUS-Cisco 
 
 
 # References
