@@ -19,6 +19,10 @@ Add 'prodByNumber'
 
 ## Task 3
 
+!pip install faiss-cpu
+!pip install langchain sentence_transformers
+!pip install unstructured
+
 ## Task 4
 
 - create environment.txt

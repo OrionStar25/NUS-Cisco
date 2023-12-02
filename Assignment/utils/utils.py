@@ -1,5 +1,6 @@
 import json
 import csv
+import pickle
 
 
 # Dump dictionary into a json file
@@ -91,3 +92,9 @@ def write_text_to_file(filename, data):
     f.write(data)
     f.close()
 
+def load_pickle(filename):
+    with open(filename, 'rb') as file: 
+        # Call load method to deserialze 
+        pkl = pickle.load(file) 
+    
+    return pkl
