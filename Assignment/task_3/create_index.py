@@ -11,7 +11,7 @@ from utils.utils import *
 def main():
     # Load documents
     print("Loading documents")
-    loader = DirectoryLoader('../task_2/products/', glob="**/*.txt", show_progress=True)
+    loader = DirectoryLoader('../task_2/products/access_point_modules', glob="**/*.txt", show_progress=True)
     documents = loader.load()
 
     # Split documents
