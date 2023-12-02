@@ -7,6 +7,11 @@
 $ conda install -c conda-forge pygraphviz
 ```
 
+- 0-9 products not parsed since I initially thought they were not products for some reason.
+Add 'prodByNumber'
+'numeric'
+'something else'
+
 <add functionality for 0-9 products too>
 
 ## Task 2
