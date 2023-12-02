@@ -14,15 +14,6 @@ $ conda env list # Verfiy if installation is correct
 $ pip install -r requirements.txt
 ```
 
-```
-conda activate cisco
-
-<!-- conda list -e > requirements.txt save all the info about packages to your folder -->
-
-conda env export > cisco.yml
-
-pip list --format=freeze > requirements.txt
-```
 
 # Task 1
 
