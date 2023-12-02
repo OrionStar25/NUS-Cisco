@@ -75,7 +75,7 @@ Alternatively, you can open `graph.html` using VSCode's live server extension.
 - Open with Live Server
 ```
 
-Below are a few samples of the interactive visualization:
+Below are a few samples of the interactive visualization (also can be seen in `images/`):
 
 ![](images/1.png)
 ![](images/2.png)
